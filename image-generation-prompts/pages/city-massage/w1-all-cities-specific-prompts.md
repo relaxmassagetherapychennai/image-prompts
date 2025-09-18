@@ -14,7 +14,7 @@
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-mumbai-professional-therapist-service.png
+massage-at-home-mumbai-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -27,7 +27,7 @@ Female client enjoying relaxing Swedish massage at home in Mumbai's luxury apart
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-mumbai-home-wellness-lifestyle.png
+luxury-massage-service-mumbai-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -40,7 +40,7 @@ Female client receiving therapeutic deep tissue massage in Mumbai's luxury resid
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-mumbai-certified-home-service.png
+professional-massage-therapist-mumbai-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -57,7 +57,7 @@ Female client experiencing traditional Thai massage at home in Mumbai's upscale 
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-delhi-professional-therapist-service.png
+massage-at-home-delhi-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -70,7 +70,7 @@ Female client enjoying Ayurvedic massage therapy at home in Delhi's traditional 
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-delhi-home-wellness-lifestyle.png
+luxury-massage-service-delhi-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -83,7 +83,7 @@ Female client receiving hot stone massage therapy in Delhi's government quarter 
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-delhi-certified-home-service.png
+professional-massage-therapist-delhi-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -100,7 +100,7 @@ Female client experiencing aromatherapy massage in Delhi's cultural heritage res
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-bangalore-professional-therapist-service.png
+massage-at-home-bangalore-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -113,7 +113,7 @@ Female client enjoying sports recovery massage at home in Bangalore's tech resid
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-bangalore-home-wellness-lifestyle.png
+luxury-massage-service-bangalore-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -126,7 +126,7 @@ Bangalore garden city lifestyle integration with modern wellness massage therapy
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-bangalore-certified-home-service.png
+professional-massage-therapist-bangalore-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -143,7 +143,7 @@ Tech industry wellness expertise with professional certification in Bangalore's 
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-chennai-professional-therapist-service.png
+massage-at-home-chennai-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -156,7 +156,7 @@ Professional luxury home massage service respecting Chennai's Tamil cultural her
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-chennai-home-wellness-lifestyle.png
+luxury-massage-service-chennai-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -169,7 +169,7 @@ Chennai coastal cultural lifestyle integration with traditional Tamil wellness m
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-chennai-certified-home-service.png
+professional-massage-therapist-chennai-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -186,7 +186,7 @@ Tamil cultural heritage wellness expertise with professional certification in Ch
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-hyderabad-professional-therapist-service.png
+massage-at-home-hyderabad-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -199,7 +199,7 @@ Professional luxury home massage service in Hyderabad's Nizami heritage environm
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-hyderabad-home-wellness-lifestyle.png
+luxury-massage-service-hyderabad-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -212,7 +212,7 @@ Hyderabad pharma and tech professional lifestyle integration with heritage welln
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-hyderabad-certified-home-service.png
+professional-massage-therapist-hyderabad-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -229,7 +229,7 @@ Pearl City heritage wellness expertise with professional certification in Hydera
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-pune-professional-therapist-service.png
+massage-at-home-pune-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -242,7 +242,7 @@ Professional luxury home massage service for Pune's automotive and IT profession
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-pune-home-wellness-lifestyle.png
+luxury-massage-service-pune-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -255,7 +255,7 @@ Pune educational automotive IT lifestyle integration with professional wellness 
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-pune-certified-home-service.png
+professional-massage-therapist-pune-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -272,7 +272,7 @@ Educational hub automotive IT wellness expertise with professional certification
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-kolkata-professional-therapist-service.png
+massage-at-home-kolkata-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -285,7 +285,7 @@ Professional luxury home massage service in Kolkata's cultural capital environme
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-kolkata-home-wellness-lifestyle.png
+luxury-massage-service-kolkata-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -298,7 +298,7 @@ Kolkata Bengali heritage cultural lifestyle integration with traditional wellnes
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-kolkata-certified-home-service.png
+professional-massage-therapist-kolkata-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -315,7 +315,7 @@ Bengali cultural heritage intellectual wellness expertise with professional cert
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-ahmedabad-professional-therapist-service.png
+massage-at-home-ahmedabad-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -328,7 +328,7 @@ Professional luxury home massage service in Ahmedabad's business hub environment
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-ahmedabad-home-wellness-lifestyle.png
+luxury-massage-service-ahmedabad-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -341,7 +341,7 @@ Ahmedabad entrepreneurial business lifestyle integration with professional welln
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-ahmedabad-certified-home-service.png
+professional-massage-therapist-ahmedabad-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -358,7 +358,7 @@ Gujarat business culture wellness expertise with professional certification in A
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-jaipur-professional-therapist-service.png
+massage-at-home-jaipur-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -371,7 +371,7 @@ Professional luxury home massage service in Jaipur's royal heritage environment.
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-jaipur-home-wellness-lifestyle.png
+luxury-massage-service-jaipur-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -384,7 +384,7 @@ Jaipur heritage tourism royal lifestyle integration with traditional luxury well
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-jaipur-certified-home-service.png
+professional-massage-therapist-jaipur-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -401,7 +401,7 @@ Royal Rajasthani heritage wellness expertise with professional certification in 
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-surat-professional-therapist-service.png
+massage-at-home-surat-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -414,7 +414,7 @@ Professional luxury home massage service for Surat's diamond and textile industr
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-surat-home-wellness-lifestyle.png
+luxury-massage-service-surat-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -427,7 +427,7 @@ Surat commercial hub lifestyle integration with precision work wellness massage 
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-surat-certified-home-service.png
+professional-massage-therapist-surat-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -444,7 +444,7 @@ Diamond textile industry wellness expertise with professional certification in S
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-lucknow-professional-therapist-service.png
+massage-at-home-lucknow-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -457,7 +457,7 @@ Professional luxury home massage service in Lucknow's Nawabi heritage government
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-lucknow-home-wellness-lifestyle.png
+luxury-massage-service-lucknow-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -470,7 +470,7 @@ Lucknow Awadhi cultural government lifestyle integration with traditional herita
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-lucknow-certified-home-service.png
+professional-massage-therapist-lucknow-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -487,7 +487,7 @@ Nawabi heritage government wellness expertise with professional certification in
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-kanpur-professional-therapist-service.png
+massage-at-home-kanpur-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -500,7 +500,7 @@ Professional luxury home massage service for Kanpur's industrial and manufacturi
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-kanpur-home-wellness-lifestyle.png
+luxury-massage-service-kanpur-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -513,7 +513,7 @@ Kanpur manufacturing industrial lifestyle integration with professional wellness
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-kanpur-certified-home-service.png
+professional-massage-therapist-kanpur-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -530,7 +530,7 @@ Industrial manufacturing wellness expertise with professional certification in K
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-nagpur-professional-therapist-service.png
+massage-at-home-nagpur-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -543,7 +543,7 @@ Professional luxury home massage service in Nagpur's central India transportatio
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-nagpur-home-wellness-lifestyle.png
+luxury-massage-service-nagpur-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -556,7 +556,7 @@ Nagpur transportation logistics regional lifestyle integration with professional
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-nagpur-certified-home-service.png
+professional-massage-therapist-nagpur-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -573,7 +573,7 @@ Central India transportation wellness expertise with professional certification 
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-indore-professional-therapist-service.png
+massage-at-home-indore-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -586,7 +586,7 @@ Professional luxury home massage service in Indore's MP commercial capital educa
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-indore-home-wellness-lifestyle.png
+luxury-massage-service-indore-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -599,7 +599,7 @@ Indore commercial educational regional lifestyle integration with professional w
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-indore-certified-home-service.png
+professional-massage-therapist-indore-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -616,7 +616,7 @@ MP commercial educational wellness expertise with professional certification in 
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-kochi-professional-therapist-service.png
+massage-at-home-kochi-professional-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -629,7 +629,7 @@ Professional luxury home massage service in Kochi's Kerala port city maritime en
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-kochi-home-wellness-lifestyle.png
+luxury-massage-service-kochi-home-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -642,7 +642,7 @@ Kochi Kerala coastal international tourism lifestyle integration with traditiona
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-kochi-certified-home-service.png
+professional-massage-therapist-kochi-certified-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)

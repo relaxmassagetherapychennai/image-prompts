@@ -15,7 +15,7 @@
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-home-female-clients.png
+luxury-massage-service-home-female-clients
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -32,7 +32,7 @@ Professional luxury home massage scene showcasing brand positioning for female c
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-home-service-wellness.png
+professional-massage-therapist-home-service-wellness
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -48,7 +48,7 @@ Comprehensive wellness service showcase in premium home environment. Scene: spac
 
 ### 📁 File Name (Copy Below)
 ```
-relaxation-massage-luxury-home-spa-experience.png
+relaxation-massage-luxury-home-spa-experience
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -64,7 +64,7 @@ Serene client experience visualization in luxury home spa setting. Scene: peacef
 
 ### 📁 File Name (Copy Below)
 ```
-massage-membership-benefits-luxury-home-service.png
+massage-membership-benefits-luxury-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)

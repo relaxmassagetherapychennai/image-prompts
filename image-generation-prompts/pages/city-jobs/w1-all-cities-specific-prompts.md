@@ -14,7 +14,7 @@
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-mumbai-2025-high-salary-training.png
+massage-therapist-jobs-mumbai-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -39,7 +39,7 @@ Professional service delivery emphasizing both career opportunity and actual Swe
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-mumbai-professional-certification-local.png
+massage-therapy-training-mumbai-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -52,7 +52,7 @@ Professional massage therapy training with deep tissue specialization in Mumbai 
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-mumbai-lifestyle-earnings.png
+massage-therapist-career-success-mumbai-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -69,7 +69,7 @@ Successful male massage therapist performing Thai massage in Mumbai's luxury res
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-delhi-2025-high-salary-training.png
+massage-therapist-jobs-delhi-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -82,7 +82,7 @@ Professional male massage therapist providing Ayurvedic massage in Delhi's premi
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-delhi-professional-certification-local.png
+massage-therapy-training-delhi-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -95,7 +95,7 @@ Comprehensive hot stone massage training program in Delhi institute. Scene: male
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-delhi-lifestyle-earnings.png
+massage-therapist-career-success-delhi-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -112,7 +112,7 @@ Successful male massage therapist delivering aromatherapy massage in Delhi's lux
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-bangalore-2025-high-salary-training.png
+massage-therapist-jobs-bangalore-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -125,7 +125,7 @@ Professional male massage therapist providing sports massage in Bangalore's prem
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-bangalore-professional-certification-local.png
+massage-therapy-training-bangalore-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -138,7 +138,7 @@ Comprehensive couple massage training program in Bangalore institute. Scene: mal
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-bangalore-lifestyle-earnings.png
+massage-therapist-career-success-bangalore-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -155,7 +155,7 @@ Successful male massage therapist delivering prenatal massage in Bangalore's lux
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-chennai-2025-high-salary-training.png
+massage-therapist-jobs-chennai-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -168,7 +168,7 @@ Professional male massage therapist providing reflexology in Chennai's coastal r
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-chennai-professional-certification-local.png
+massage-therapy-training-chennai-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -181,7 +181,7 @@ Comprehensive lymphatic drainage massage training in Chennai institute. Scene: m
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-chennai-lifestyle-earnings.png
+massage-therapist-career-success-chennai-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -198,7 +198,7 @@ Successful male massage therapist delivering chair massage in Chennai's corporat
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-hyderabad-2025-high-salary-training.png
+massage-therapist-jobs-hyderabad-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -211,7 +211,7 @@ Professional male massage therapist providing trigger point therapy in Hyderabad
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-hyderabad-professional-certification-local.png
+massage-therapy-training-hyderabad-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -224,7 +224,7 @@ Corporate wellness specialization training in Hyderabad's professional hub. Scen
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-hyderabad-lifestyle-earnings.png
+massage-therapist-career-success-hyderabad-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -241,7 +241,7 @@ Professional industry career success for massage therapists in Hyderabad. Scene:
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-pune-2025-high-salary-training.png
+massage-therapist-jobs-pune-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -254,7 +254,7 @@ Professional male massage therapist delivering shiatsu massage in Pune's automot
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-pune-professional-certification-local.png
+massage-therapy-training-pune-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -267,7 +267,7 @@ Industrial wellness training program in Pune's automotive and IT hub. Scene: spe
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-pune-lifestyle-earnings.png
+massage-therapist-career-success-pune-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -284,7 +284,7 @@ Educational hub career success for massage therapists in Pune's industrial envir
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-kolkata-2025-high-salary-training.png
+massage-therapist-jobs-kolkata-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -297,7 +297,7 @@ Professional male massage therapist providing myofascial release in Kolkata's cu
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-kolkata-professional-certification-local.png
+massage-therapy-training-kolkata-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -310,7 +310,7 @@ Traditional Bengali wellness integrated massage therapy training in Kolkata. Sce
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-kolkata-lifestyle-earnings.png
+massage-therapist-career-success-kolkata-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -327,7 +327,7 @@ Cultural community career success for massage therapists in Kolkata's intellectu
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-ahmedabad-2025-high-salary-training.png
+massage-therapist-jobs-ahmedabad-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -340,7 +340,7 @@ Professional male massage therapist delivering cupping therapy in Ahmedabad's bu
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-ahmedabad-professional-certification-local.png
+massage-therapy-training-ahmedabad-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -353,7 +353,7 @@ Commercial wellness training program in Ahmedabad's business environment. Scene:
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-ahmedabad-lifestyle-earnings.png
+massage-therapist-career-success-ahmedabad-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -370,7 +370,7 @@ Entrepreneurial wellness career success for massage therapists in Ahmedabad's bu
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-jaipur-2025-high-salary-training.png
+massage-therapist-jobs-jaipur-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -383,7 +383,7 @@ Tourism and heritage wellness careers in Jaipur's royal city environment. Scene:
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-jaipur-professional-certification-local.png
+massage-therapy-training-jaipur-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -396,7 +396,7 @@ Royal heritage wellness training program in Jaipur's traditional environment. Sc
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-jaipur-lifestyle-earnings.png
+massage-therapist-career-success-jaipur-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -413,7 +413,7 @@ Luxury tourism career success for massage therapists in Jaipur's heritage enviro
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-surat-2025-high-salary-training.png
+massage-therapist-jobs-surat-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -426,7 +426,7 @@ Diamond and textile industry wellness careers in Surat's commercial hub. Scene: 
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-surat-professional-certification-local.png
+massage-therapy-training-surat-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -439,7 +439,7 @@ Industrial wellness specialization training in Surat's diamond and textile hub. 
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-surat-lifestyle-earnings.png
+massage-therapist-career-success-surat-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -456,7 +456,7 @@ Commercial prosperity career success for massage therapists in Surat's diamond a
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-lucknow-2025-high-salary-training.png
+massage-therapist-jobs-lucknow-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -469,7 +469,7 @@ Government capital wellness careers in Lucknow's traditional environment. Scene:
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-lucknow-professional-certification-local.png
+massage-therapy-training-lucknow-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -482,7 +482,7 @@ Traditional Awadhi wellness training program in Lucknow's heritage environment. 
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-lucknow-lifestyle-earnings.png
+massage-therapist-career-success-lucknow-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -499,7 +499,7 @@ Heritage capital career success for massage therapists in Lucknow's traditional 
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-kanpur-2025-high-salary-training.png
+massage-therapist-jobs-kanpur-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -512,7 +512,7 @@ Industrial hub wellness careers in Kanpur's manufacturing environment. Scene: mo
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-kanpur-professional-certification-local.png
+massage-therapy-training-kanpur-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -525,7 +525,7 @@ Industrial worker wellness training program in Kanpur's manufacturing hub. Scene
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-kanpur-lifestyle-earnings.png
+massage-therapist-career-success-kanpur-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -542,7 +542,7 @@ Industrial career stability for massage therapists in Kanpur's manufacturing env
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-nagpur-2025-high-salary-training.png
+massage-therapist-jobs-nagpur-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -555,7 +555,7 @@ Central India transportation hub wellness careers in Nagpur. Scene: modern train
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-nagpur-professional-certification-local.png
+massage-therapy-training-nagpur-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -568,7 +568,7 @@ Transportation industry wellness training in Nagpur's central hub. Scene: specia
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-nagpur-lifestyle-earnings.png
+massage-therapist-career-success-nagpur-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -585,7 +585,7 @@ Central hub career advantages for massage therapists in Nagpur's transportation 
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-indore-2025-high-salary-training.png
+massage-therapist-jobs-indore-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -598,7 +598,7 @@ Commercial capital wellness careers in Indore's business environment. Scene: mod
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-indore-professional-certification-local.png
+massage-therapy-training-indore-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -611,7 +611,7 @@ Regional business hub wellness training in Indore's commercial environment. Scen
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-indore-lifestyle-earnings.png
+massage-therapist-career-success-indore-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -628,7 +628,7 @@ Educational commercial hub career success for massage therapists in Indore's bus
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-kochi-2025-high-salary-training.png
+massage-therapist-jobs-kochi-2025-high-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -641,7 +641,7 @@ Port city maritime wellness careers in Kochi's coastal environment. Scene: moder
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-kochi-professional-certification-local.png
+massage-therapy-training-kochi-professional-certification-local
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -654,7 +654,7 @@ Traditional Kerala wellness training program in Kochi's coastal heritage environ
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-kochi-lifestyle-earnings.png
+massage-therapist-career-success-kochi-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)

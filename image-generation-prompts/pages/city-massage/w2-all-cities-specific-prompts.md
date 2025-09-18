@@ -14,7 +14,7 @@
 
 ### 📁 File Name (Copy Below)
 ```
-spa-at-home-mumbai-executive-premium-service.png
+spa-at-home-mumbai-executive-premium-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -27,7 +27,7 @@ Male executive enjoying Executive Swedish Spa in Mumbai's luxury penthouse. Scen
 
 ### 📁 File Name (Copy Below)
 ```
-executive-spa-service-mumbai-corporate-wellness-integration.png
+executive-spa-service-mumbai-corporate-wellness-integration
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -40,7 +40,7 @@ Male executive receiving Royal Thai Spa Ritual in Mumbai's celebrity residence. 
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-service-mumbai-executive-discretion-premium.png
+luxury-spa-service-mumbai-executive-discretion-premium
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -57,7 +57,7 @@ Male executive experiencing Corporate Deep Tissue Therapy in Mumbai's financial 
 
 ### 📁 File Name (Copy Below)
 ```
-spa-at-home-delhi-executive-premium-service.png
+spa-at-home-delhi-executive-premium-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -70,7 +70,7 @@ Premium executive spa service in Delhi's government and corporate capital enviro
 
 ### 📁 File Name (Copy Below)
 ```
-executive-spa-service-delhi-corporate-wellness-integration.png
+executive-spa-service-delhi-corporate-wellness-integration
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -83,7 +83,7 @@ Delhi diplomatic corporate leadership wellness integration with elite spa servic
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-service-delhi-executive-discretion-premium.png
+luxury-spa-service-delhi-executive-discretion-premium
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -100,7 +100,7 @@ Premium discretion and traditional luxury service excellence in Delhi's capital 
 
 ### 📁 File Name (Copy Below)
 ```
-spa-at-home-bangalore-executive-premium-service.png
+spa-at-home-bangalore-executive-premium-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -113,7 +113,7 @@ Premium executive spa service in Bangalore's tech innovation hub environment. Sc
 
 ### 📁 File Name (Copy Below)
 ```
-executive-spa-service-bangalore-corporate-wellness-integration.png
+executive-spa-service-bangalore-corporate-wellness-integration
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -126,7 +126,7 @@ Bangalore innovation industry executive wellness integration with elite spa serv
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-service-bangalore-executive-discretion-premium.png
+luxury-spa-service-bangalore-executive-discretion-premium
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -143,7 +143,7 @@ Premium discretion and modern innovation service excellence in Bangalore's tech 
 
 ### 📁 File Name (Copy Below)
 ```
-spa-at-home-chennai-executive-premium-service.png
+spa-at-home-chennai-executive-premium-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -156,7 +156,7 @@ Premium executive spa service in Chennai's cultural business heritage environmen
 
 ### 📁 File Name (Copy Below)
 ```
-executive-spa-service-chennai-corporate-wellness-integration.png
+executive-spa-service-chennai-corporate-wellness-integration
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -169,7 +169,7 @@ Chennai Tamil heritage business leadership wellness integration with elite spa s
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-service-chennai-executive-discretion-premium.png
+luxury-spa-service-chennai-executive-discretion-premium
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -186,7 +186,7 @@ Premium discretion and traditional luxury service excellence in Chennai's Tamil 
 
 ### 📁 File Name (Copy Below)
 ```
-spa-at-home-hyderabad-executive-premium-service.png
+spa-at-home-hyderabad-executive-premium-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -199,7 +199,7 @@ Premium executive spa service in Hyderabad's pharma tech Nizami heritage environ
 
 ### 📁 File Name (Copy Below)
 ```
-executive-spa-service-hyderabad-corporate-wellness-integration.png
+executive-spa-service-hyderabad-corporate-wellness-integration
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -212,7 +212,7 @@ Hyderabad Nizami heritage pharma tech leadership wellness integration with elite
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-service-hyderabad-executive-discretion-premium.png
+luxury-spa-service-hyderabad-executive-discretion-premium
 ```
 
 ### 🎨 AI Prompt (Copy Below)

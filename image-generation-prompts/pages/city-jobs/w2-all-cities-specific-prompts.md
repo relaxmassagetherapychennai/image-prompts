@@ -14,7 +14,7 @@
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-therapist-jobs-mumbai-luxury-clients-premium-pay.png
+elite-spa-therapist-jobs-mumbai-luxury-clients-premium-pay
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -27,7 +27,7 @@ Elite female spa therapist providing Executive Swedish Spa to business executive
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-training-mumbai-executive-client-service-elite-standards.png
+luxury-spa-training-mumbai-executive-client-service-elite-standards
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -40,7 +40,7 @@ Elite Royal Thai Spa Ritual training for female therapists in Mumbai's luxury in
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-career-success-mumbai-luxury-industry-prestige.png
+elite-spa-career-success-mumbai-luxury-industry-prestige
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -57,7 +57,7 @@ Successful female spa therapist delivering Volcanic Stone Elite therapy in Mumba
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-therapist-jobs-delhi-luxury-clients-premium-pay.png
+elite-spa-therapist-jobs-delhi-luxury-clients-premium-pay
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -70,7 +70,7 @@ Elite female spa therapist providing Heritage Ayurvedic Ceremony to government e
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-training-delhi-executive-client-service-elite-standards.png
+luxury-spa-training-delhi-executive-client-service-elite-standards
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -83,7 +83,7 @@ Elite Signature Aromatherapy Collection training for female therapists in Delhi'
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-career-success-delhi-luxury-industry-prestige.png
+elite-spa-career-success-delhi-luxury-industry-prestige
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -100,7 +100,7 @@ Successful female spa therapist delivering Athletic Performance Enhancement to g
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-therapist-jobs-bangalore-luxury-clients-premium-pay.png
+elite-spa-therapist-jobs-bangalore-luxury-clients-premium-pay
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -113,7 +113,7 @@ Elite female spa therapist providing Corporate Deep Tissue Therapy to tech CEO i
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-training-bangalore-executive-client-service-elite-standards.png
+luxury-spa-training-bangalore-executive-client-service-elite-standards
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -126,7 +126,7 @@ Elite Platinum Couple Spa training for female therapists in Bangalore's luxury i
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-career-success-bangalore-luxury-industry-prestige.png
+elite-spa-career-success-bangalore-luxury-industry-prestige
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -143,7 +143,7 @@ Successful female spa therapist delivering Platinum Couple Spa to tech power cou
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-therapist-jobs-chennai-luxury-clients-premium-pay.png
+elite-spa-therapist-jobs-chennai-luxury-clients-premium-pay
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -156,7 +156,7 @@ Elite female spa therapist providing Heritage Ayurvedic Ceremony to business exe
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-training-chennai-executive-client-service-elite-standards.png
+luxury-spa-training-chennai-executive-client-service-elite-standards
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -169,7 +169,7 @@ Elite cultural business executive service training in Chennai's heritage environ
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-career-success-chennai-luxury-industry-prestige.png
+elite-spa-career-success-chennai-luxury-industry-prestige
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -186,7 +186,7 @@ Cultural business elite career success for spa therapists in Chennai's heritage 
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-therapist-jobs-hyderabad-luxury-clients-premium-pay.png
+elite-spa-therapist-jobs-hyderabad-luxury-clients-premium-pay
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -199,7 +199,7 @@ Elite spa therapist career opportunities in Hyderabad's pharma and tech elite en
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-training-hyderabad-executive-client-service-elite-standards.png
+luxury-spa-training-hyderabad-executive-client-service-elite-standards
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -212,7 +212,7 @@ Elite female spa therapist providing Executive Swedish Spa to pharmaceutical exe
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-career-success-hyderabad-luxury-industry-prestige.png
+elite-spa-career-success-hyderabad-luxury-industry-prestige
 ```
 
 ### 🎨 AI Prompt (Copy Below)

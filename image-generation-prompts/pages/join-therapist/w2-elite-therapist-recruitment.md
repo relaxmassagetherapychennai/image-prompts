@@ -14,7 +14,7 @@
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-therapist-careers-luxury-client-service.png
+elite-spa-therapist-careers-luxury-client-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -30,7 +30,7 @@ Elite spa career opportunity showcase for female therapists in luxury environmen
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-training-executive-client-service-standards.png
+luxury-spa-training-executive-client-service-standards
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -46,7 +46,7 @@ Comprehensive elite spa training program for executive client service. Scene: pr
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-therapist-premium-compensation-exclusive-benefits.png
+elite-spa-therapist-premium-compensation-exclusive-benefits
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -62,7 +62,7 @@ Premium compensation showcase for elite spa therapist careers. Scene: profession
 
 ### 📁 File Name (Copy Below)
 ```
-executive-spa-therapist-luxury-client-environment-discretion.png
+executive-spa-therapist-luxury-client-environment-discretion
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -78,7 +78,7 @@ Executive client service environment for elite spa therapists. Scene: profession
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-career-advancement-luxury-industry-leadership.png
+elite-spa-career-advancement-luxury-industry-leadership
 ```
 
 ### 🎨 AI Prompt (Copy Below)

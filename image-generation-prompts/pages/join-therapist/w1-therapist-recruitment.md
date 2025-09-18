@@ -14,7 +14,7 @@
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-opportunities-professional-training.png
+massage-therapist-career-opportunities-professional-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -30,7 +30,7 @@ Professional massage therapy career showcase with male therapist in training env
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-certification-professional-development.png
+massage-therapy-training-certification-professional-development
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -46,7 +46,7 @@ Comprehensive massage therapy training program in professional institute setting
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-success-stories-high-earning-potential.png
+massage-therapist-success-stories-high-earning-potential
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -62,7 +62,7 @@ Success visualization for massage therapy careers with earning potential showcas
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-flexible-schedule-work-life-balance.png
+massage-therapist-flexible-schedule-work-life-balance
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -78,7 +78,7 @@ Work-life balance visualization for massage therapy careers. Scene: professional
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-career-growth-professional-advancement-opportunities.png
+massage-therapy-career-growth-professional-advancement-opportunities
 ```
 
 ### 🎨 AI Prompt (Copy Below)

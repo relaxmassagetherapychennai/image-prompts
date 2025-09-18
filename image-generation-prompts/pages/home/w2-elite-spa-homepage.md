@@ -14,7 +14,7 @@
 
 ### 📁 File Name (Copy Below)
 ```
-premium-spa-service-home-business-executives.png
+premium-spa-service-home-business-executives
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -30,7 +30,7 @@ Elite executive wellness scene in luxury penthouse environment. Professional fem
 
 ### 📁 File Name (Copy Below)
 ```
-executive-wellness-spa-services-corporate-professionals.png
+executive-wellness-spa-services-corporate-professionals
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -46,7 +46,7 @@ Comprehensive executive wellness service showcase in premium corporate-residenti
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-experience-executive-stress-relief.png
+luxury-spa-experience-executive-stress-relief
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -62,7 +62,7 @@ Executive stress relief session in sophisticated business-residential environmen
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-membership-executive-wellness-benefits.png
+elite-spa-membership-executive-wellness-benefits
 ```
 
 ### 🎨 AI Prompt (Copy Below)

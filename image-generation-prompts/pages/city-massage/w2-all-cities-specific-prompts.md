@@ -2,7 +2,7 @@
 
 ## Overview
 **Pages**: `/home-spa-in-[city]` for each elite city
-**Target**: Male executives seeking premium local spa services
+**Target**: Business professionals seeking premium local spa services
 **Images Per City**: 3 specific images with detailed city-customized prompts
 
 ---
@@ -10,11 +10,11 @@
 ## MUMBAI (3 images)
 
 ### MUMBAI-SPA-01: Financial Executive Penthouse Service
-**SEO Alt Text**: "Premium spa at home in Mumbai for financial executives with professional therapeutic service"
+**SEO Alt Text**: "Best spa service in Mumbai at home - professional therapeutic care 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-spa-at-home-mumbai-executive-therapeutic-service
+best-spa-service-mumbai-at-home-professional-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -23,11 +23,11 @@ Executive enjoying Executive Swedish Spa in Mumbai's luxury penthouse with diver
 ```
 
 ### MUMBAI-SPA-02: Bollywood Financial Elite Wellness Integration
-**SEO Alt Text**: "Executive spa service in Mumbai with corporate wellness integration for entertainment financial professionals"
+**SEO Alt Text**: "Best spa service Mumbai - corporate wellness for entertainment professionals 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-executive-spa-service-mumbai-corporate-entertainment-wellness-integration
+best-spa-service-mumbai-corporate-wellness-entertainment-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -36,11 +36,11 @@ Executive receiving Royal Thai Spa Ritual in Mumbai's celebrity residence with d
 ```
 
 ### MUMBAI-SPA-03: Cosmopolitan Executive Premium Discretion
-**SEO Alt Text**: "Luxury spa service in Mumbai with executive discretion and premium cosmopolitan professional standards"
+**SEO Alt Text**: "Luxury spa service Mumbai - professional discretion and premium standards 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-service-mumbai-executive-discretion-premium
+luxury-spa-service-mumbai-professional-discretion-premium-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -53,11 +53,11 @@ Male executive experiencing Corporate Deep Tissue Therapy in Mumbai's financial 
 ## DELHI (3 images)
 
 ### DELHI-SPA-01: Government Corporate Executive Capital Service
-**SEO Alt Text**: "Premium spa at home in Delhi for government and corporate executives with professional female therapist"
+**SEO Alt Text**: "Best spa service in Delhi at home - government corporate professionals 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-spa-at-home-delhi-executive-premium-service
+best-spa-service-delhi-at-home-corporate-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -66,11 +66,11 @@ Premium executive spa service in Delhi's government and corporate capital enviro
 ```
 
 ### DELHI-SPA-02: Diplomatic Corporate Leadership Wellness
-**SEO Alt Text**: "Executive spa service in Delhi with diplomatic corporate wellness integration for government leaders"
+**SEO Alt Text**: "Best spa service Delhi - corporate wellness for government professionals 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-executive-spa-service-delhi-corporate-wellness-integration
+best-spa-service-delhi-corporate-wellness-government-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -79,11 +79,11 @@ Delhi diplomatic corporate leadership wellness integration with elite spa servic
 ```
 
 ### DELHI-SPA-03: Capital Elite Traditional Luxury Discretion
-**SEO Alt Text**: "Luxury spa service in Delhi with capital elite discretion and traditional luxury professional standards"
+**SEO Alt Text**: "Luxury spa service Delhi - professional discretion and traditional standards 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-service-delhi-executive-discretion-premium
+luxury-spa-service-delhi-professional-discretion-traditional-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -96,7 +96,7 @@ Premium discretion and traditional luxury service excellence in Delhi's capital 
 ## BANGALORE (3 images)
 
 ### BANGALORE-SPA-01: Tech Executive Innovation Hub Service
-**SEO Alt Text**: "Premium spa at home in Bangalore for tech executives with innovation hub professional female therapist"
+**SEO Alt Text**: "Best spa service in Bangalore for tech professionals - innovation hub wellness 2025"
 
 ### 📁 File Name (Copy Below)
 ```

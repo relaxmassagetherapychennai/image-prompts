@@ -9,12 +9,12 @@
 ---
 
 ## W2-THERAPIST-01: Elite Career Opportunity Hero
-**SEO Alt Text**: "Elite spa therapist careers serving executive clients with premium compensation and exclusive environment"
+**SEO Alt Text**: "Spa therapist jobs hiring now - high paying positions with benefits 2025"
 **Usage**: Primary hero section, elite recruitment landing
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-therapist-careers-executive-client-service
+spa-therapist-jobs-hiring-high-paying-positions-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -25,12 +25,12 @@ Elite spa career opportunity showcase in luxury environment. Scene: sophisticate
 ---
 
 ## W2-THERAPIST-02: Executive Service Training
-**SEO Alt Text**: "Luxury spa training for executive client service with premium standards and discretion protocols"
+**SEO Alt Text**: "Professional spa therapist training and certification - guaranteed job placement 2025"
 **Usage**: Training/education section
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-training-executive-client-service-standards
+spa-therapist-training-professional-certification-jobs-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -41,12 +41,12 @@ Comprehensive elite spa training program for executive client service. Scene: pr
 ---
 
 ## W2-THERAPIST-03: Premium Compensation & Benefits
-**SEO Alt Text**: "Elite spa therapist premium compensation and exclusive benefits working with high-end clientele"
+**SEO Alt Text**: "High paying spa jobs with competitive salary and full benefits package 2025"
 **Usage**: Compensation/benefits section
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-therapist-premium-compensation-exclusive-benefits
+high-paying-spa-jobs-competitive-salary-benefits-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -57,12 +57,12 @@ Premium compensation showcase for elite spa therapist careers. Scene: profession
 ---
 
 ## W2-THERAPIST-04: Executive Client Environment
-**SEO Alt Text**: "Executive spa therapist working in luxury client environment with professional discretion and premium service"
+**SEO Alt Text**: "Spa therapist jobs in professional work environment - immediate openings 2025"
 **Usage**: Work environment/lifestyle section
 
 ### 📁 File Name (Copy Below)
 ```
-executive-spa-therapist-luxury-client-environment-discretion
+spa-therapist-jobs-professional-work-environment-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -73,12 +73,12 @@ Executive client service environment for elite spa therapists. Scene: profession
 ---
 
 ## W2-THERAPIST-05: Elite Career Advancement
-**SEO Alt Text**: "Elite spa career advancement opportunities in luxury industry with leadership and specialization paths"
+**SEO Alt Text**: "Spa manager jobs and career advancement - leadership roles available 2025"
 **Usage**: Career development section
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-career-advancement-luxury-industry-leadership
+spa-manager-jobs-career-advancement-leadership-roles-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)

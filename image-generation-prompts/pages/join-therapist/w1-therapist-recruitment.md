@@ -9,12 +9,12 @@
 ---
 
 ## W1-THERAPIST-01: Career Opportunity Hero
-**SEO Alt Text**: "Massage therapist career opportunities with professional training and competitive earning potential"
+**SEO Alt Text**: "Massage therapist jobs hiring now with competitive salary and benefits 2025"
 **Usage**: Primary hero section, recruitment landing
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-opportunities-competitive-training
+massage-therapist-jobs-hiring-now-competitive-salary-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -25,12 +25,12 @@ Professional massage therapy career showcase in training environment. Scene: mod
 ---
 
 ## W1-THERAPIST-02: Professional Training Program
-**SEO Alt Text**: "Massage therapy training and certification program for professional development and career advancement"
+**SEO Alt Text**: "Free massage therapist training and certification with job placement assistance 2025"
 **Usage**: Training/education section
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-certification-career-advancement
+massage-therapist-training-certification-job-placement-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -41,12 +41,12 @@ Comprehensive massage therapy training program in professional institute setting
 ---
 
 ## W1-THERAPIST-03: Success Stories & Earnings
-**SEO Alt Text**: "Massage therapist success stories showing competitive earning potential and career advancement"
+**SEO Alt Text**: "Massage therapist salary guide - real earnings and income success stories 2025"
 **Usage**: Success/testimonials section
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-success-stories-competitive-earning-potential
+massage-therapist-salary-earnings-success-stories-income-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -57,12 +57,12 @@ Success visualization for massage therapy careers with earning potential showcas
 ---
 
 ## W1-THERAPIST-04: Work-Life Balance
-**SEO Alt Text**: "Massage therapist flexible schedule offering excellent work-life balance and career freedom"
+**SEO Alt Text**: "Part time massage therapist jobs with flexible work schedule - apply today 2025"
 **Usage**: Benefits/lifestyle section
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-flexible-schedule-work-life-balance
+part-time-massage-therapist-jobs-flexible-schedule-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -73,12 +73,12 @@ Work-life balance visualization for massage therapy careers. Scene: professional
 ---
 
 ## W1-THERAPIST-05: Professional Growth Path
-**SEO Alt Text**: "Massage therapy career growth path with professional advancement opportunities and specialization options"
+**SEO Alt Text**: "Massage therapist career growth and advancement opportunities - build your future 2025"
 **Usage**: Career development section
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-career-growth-professional-advancement-opportunities
+massage-therapist-career-growth-advancement-opportunities-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)

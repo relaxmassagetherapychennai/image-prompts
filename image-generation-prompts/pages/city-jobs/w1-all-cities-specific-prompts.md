@@ -2,7 +2,7 @@
 
 ## Overview
 **Pages**: `/massage-therapist-jobs/[city]` for each city
-**Target**: Male massage therapists seeking local career opportunities
+**Target**: Massage therapists seeking local job opportunities
 **Images Per City**: 3 specific images with detailed city-customized prompts
 
 ---
@@ -10,11 +10,11 @@
 ## MUMBAI (3 images)
 
 ### MUMBAI-JOB-01: Financial District Career Opportunity
-**SEO Alt Text**: "Massage therapist jobs in Mumbai 2025 with competitive salary and professional training opportunities"
+**SEO Alt Text**: "Massage therapist jobs in Mumbai hiring now - high salary positions 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-mumbai-2025-competitive-salary-training
+massage-therapist-jobs-mumbai-hiring-now-high-salary-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -33,11 +33,11 @@ Professional service delivery emphasizing both career opportunity and actual Swe
 ```
 
 ### MUMBAI-JOB-02: Professional Training Program
-**SEO Alt Text**: "Massage therapy training in Mumbai with professional certification and local career placement"
+**SEO Alt Text**: "Free massage therapist training Mumbai with job placement - certification provided 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-mumbai-professional-certification-career
+massage-therapist-training-mumbai-job-placement-certification-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -46,11 +46,11 @@ Professional massage therapy training with deep tissue specialization in Mumbai 
 ```
 
 ### MUMBAI-JOB-03: Success Stories & Earnings
-**SEO Alt Text**: "Massage therapist career success in Mumbai with professional lifestyle benefits and earning potential"
+**SEO Alt Text**: "Massage therapist salary Mumbai - earnings guide and success stories 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-mumbai-professional-lifestyle-earnings
+massage-therapist-salary-mumbai-earnings-guide-success-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -63,11 +63,11 @@ Successful massage therapist performing Thai massage in Mumbai's luxury resident
 ## DELHI (3 images)
 
 ### DELHI-JOB-01: Government & Corporate Career Hub
-**SEO Alt Text**: "Massage therapist jobs in Delhi NCR 2025 with competitive salary and government corporate training"
+**SEO Alt Text**: "Massage therapist jobs Delhi NCR hiring now - government corporate positions 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-delhi-2025-competitive-salary-training
+massage-therapist-jobs-delhi-hiring-government-corporate-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -76,11 +76,11 @@ Professional massage therapist providing Ayurvedic massage in Delhi's premium re
 ```
 
 ### DELHI-JOB-02: Traditional & Modern Training Integration
-**SEO Alt Text**: "Massage therapy training in Delhi with traditional Ayurvedic and modern professional certification"
+**SEO Alt Text**: "Free massage therapist training Delhi with job placement - Ayurvedic certification 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-delhi-professional-certification-career
+massage-therapist-training-delhi-job-placement-ayurvedic-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -89,11 +89,11 @@ Comprehensive hot stone massage training program in Delhi institute with diverse
 ```
 
 ### DELHI-JOB-03: Stable Career with Cultural Heritage
-**SEO Alt Text**: "Massage therapist career success in Delhi with stable earnings and cultural wellness heritage"
+**SEO Alt Text**: "Massage therapist salary Delhi - earnings guide with cultural wellness jobs 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-delhi-professional-lifestyle-earnings
+massage-therapist-salary-delhi-earnings-cultural-wellness-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -106,11 +106,11 @@ Successful massage therapist delivering aromatherapy massage in Delhi's luxury s
 ## BANGALORE (3 images)
 
 ### BANGALORE-JOB-01: Tech Industry Stress Relief Specialist
-**SEO Alt Text**: "Massage therapist jobs in Bangalore 2025 specializing in IT professional stress relief and competitive salary"
+**SEO Alt Text**: "Massage therapist jobs Bangalore hiring - IT tech companies high salary 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-bangalore-2025-competitive-salary-training
+massage-therapist-jobs-bangalore-hiring-tech-companies-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -119,11 +119,11 @@ Professional massage therapist providing sports massage in Bangalore's premium r
 ```
 
 ### BANGALORE-JOB-02: Ergonomic Wellness Training
-**SEO Alt Text**: "Massage therapy training in Bangalore with ergonomic wellness and IT professional certification"
+**SEO Alt Text**: "Free massage therapist training Bangalore with IT job placement - tech certification 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-bangalore-professional-certification-career
+massage-therapist-training-bangalore-IT-job-placement-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -132,11 +132,11 @@ Comprehensive couple massage training program in Bangalore institute with divers
 ```
 
 ### BANGALORE-JOB-03: Tech Lifestyle Career Success
-**SEO Alt Text**: "Massage therapist career success in Bangalore tech industry with modern lifestyle and earning growth"
+**SEO Alt Text**: "Massage therapist salary Bangalore - tech industry earnings and growth 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-bangalore-professional-lifestyle-earnings
+massage-therapist-salary-bangalore-tech-industry-earnings-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)

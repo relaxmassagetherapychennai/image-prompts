@@ -27,12 +27,12 @@ Professional luxury home massage scene showcasing brand positioning. Scene: eleg
 
 ## W1-HOME-02: Services Overview
 
-**SEO Alt Text**: "Top massage therapist providing home service with same day booking in Mumbai 2025"
+**SEO Alt Text**: "Top massage therapist providing home service with same day booking available 2025"
 **Usage**: Services section, showcasing service variety
 
 ### 📁 File Name (Copy Below)
 ```
-top-massage-therapist-home-service-booking-mumbai-2025
+top-massage-therapist-home-service-booking-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -43,12 +43,12 @@ Comprehensive wellness service showcase in premium home environment. Scene: spac
 ---
 
 ## W1-HOME-03: Client Experience
-**SEO Alt Text**: "Relaxing massage at home spa near me - professional service booking 2025"
+**SEO Alt Text**: "Relaxing massage at home spa - professional service with instant booking 2025"
 **Usage**: Benefits/experience section
 
 ### 📁 File Name (Copy Below)
 ```
-relaxing-massage-home-spa-near-me-women-2025
+relaxing-massage-home-spa-professional-service-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -85,7 +85,7 @@ Membership benefits visualization in elegant home environment. Scene: split comp
 ### SEO Optimization
 - **Primary Keywords**: best massage, massage at home, near me, professional booking
 - **Secondary Keywords**: top massage therapist, same day booking, home spa, women
-- **Search Volume Impact**: 41K → 357K monthly searches (+771% increase)
+- **Search Volume Impact**: 41K → 278K monthly searches (+578% increase)
 - **Alt Text Length**: 100-125 characters
 - **File Size**: <300KB (hero), <200KB (secondary)
 

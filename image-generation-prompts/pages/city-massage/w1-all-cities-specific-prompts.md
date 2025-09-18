@@ -2,7 +2,7 @@
 
 ## Overview
 **Pages**: `/massage-in-[city]` for each city
-**Target**: Female clients seeking local luxury massage services
+**Target**: Professionals seeking premium local massage services
 **Images Per City**: 3 specific images with detailed city-customized prompts
 
 ---
@@ -10,11 +10,11 @@
 ## MUMBAI (3 images)
 
 ### MUMBAI-MASSAGE-01: Financial District Luxury Service
-**SEO Alt Text**: "Professional massage at home in Mumbai with certified therapist and luxury service"
+**SEO Alt Text**: "Best massage in Mumbai at home - professional service with certified therapist 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-mumbai-certified-therapist-service
+best-massage-mumbai-at-home-professional-service-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -23,11 +23,11 @@ Client enjoying relaxing Swedish massage at home in Mumbai's luxury apartment. S
 ```
 
 ### MUMBAI-MASSAGE-02: Marine Drive Wellness Lifestyle
-**SEO Alt Text**: "Luxury massage service in Mumbai homes integrating wellness into professional cosmopolitan lifestyle"
+**SEO Alt Text**: "Best massage service Mumbai at home - wellness for busy professionals 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-mumbai-home-professional-wellness-lifestyle
+best-massage-service-mumbai-home-wellness-professionals-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -36,11 +36,11 @@ Client receiving therapeutic deep tissue massage in Mumbai's luxury residential 
 ```
 
 ### MUMBAI-MASSAGE-03: Certified Professional Trust
-**SEO Alt Text**: "Professional certified massage therapist in Mumbai providing trusted therapeutic home service"
+**SEO Alt Text**: "Professional massage therapist Mumbai - trusted therapeutic home service 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-mumbai-certified-therapeutic-home-service
+professional-massage-therapist-mumbai-therapeutic-home-service-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -53,11 +53,11 @@ Client experiencing traditional Thai massage at home in Mumbai's upscale residen
 ## DELHI (3 images)
 
 ### DELHI-MASSAGE-01: Capital City Traditional Luxury
-**SEO Alt Text**: "Professional massage at home in Delhi with traditional luxury and certified therapeutic service"
+**SEO Alt Text**: "Best massage in Delhi at home - traditional wellness with certified therapist 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-delhi-certified-therapist-service
+best-massage-delhi-at-home-traditional-wellness-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -66,11 +66,11 @@ Client enjoying Ayurvedic massage therapy at home in Delhi's traditional residen
 ```
 
 ### DELHI-MASSAGE-02: Government Quarter Wellness Integration
-**SEO Alt Text**: "Luxury massage service in Delhi homes integrating traditional wellness with capital city lifestyle"
+**SEO Alt Text**: "Best massage service Delhi at home - traditional wellness at your location 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-delhi-home-traditional-wellness-lifestyle
+best-massage-service-delhi-home-traditional-wellness-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -79,11 +79,11 @@ Client receiving hot stone massage therapy in Delhi's government quarter residen
 ```
 
 ### DELHI-MASSAGE-03: Traditional Heritage Professional Service
-**SEO Alt Text**: "Professional certified massage therapist in Delhi with traditional heritage wellness expertise"
+**SEO Alt Text**: "Professional massage therapist Delhi - traditional heritage wellness expertise 2025"
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-delhi-certified-home-service
+professional-massage-therapist-delhi-heritage-wellness-2025
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -96,7 +96,7 @@ Female client experiencing aromatherapy massage in Delhi's cultural heritage res
 ## BANGALORE (3 images)
 
 ### BANGALORE-MASSAGE-01: Tech Professional Stress Relief
-**SEO Alt Text**: "Professional massage at home in Bangalore for IT professionals with certified therapist service"
+**SEO Alt Text**: "Best massage in Bangalore at home - relaxation for tech professionals 2025"
 
 ### 📁 File Name (Copy Below)
 ```

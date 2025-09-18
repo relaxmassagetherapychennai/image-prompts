@@ -10,18 +10,16 @@
 ## MUMBAI (3 images)
 
 ### MUMBAI-JOB-01: Financial District Career Opportunity
-**SEO Alt Text**: "Massage therapist jobs in Mumbai 2025 with high salary and professional training opportunities"
+**SEO Alt Text**: "Massage therapist jobs in Mumbai 2025 with competitive salary and professional training opportunities"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-mumbai-2025-high-salary-training
+massage-therapist-jobs-mumbai-2025-competitive-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Professional male massage therapist delivering Swedish massage in Mumbai's premium residential setting.
-
-Scene: therapist providing relaxing Swedish massage with long, flowing strokes using premium organic oils to female client (privacy maintained, face not shown) on luxury massage table in upscale Mumbai apartment near Marine Drive.
+Professional female massage therapist delivering Swedish massage in Mumbai's premium residential setting. Scene: female therapist providing relaxing Swedish massage with long, flowing strokes using premium organic oils to male client (privacy maintained, face not shown) on luxury massage table in upscale Mumbai apartment near Marine Drive.
 
 Career opportunity elements elegantly displayed: salary progression chart (₹30K-₹70K monthly) visible on side table, "Join Mumbai's Top Therapists" recruitment materials, flexible scheduling benefits shown on tablet, premium clientele testimonials.
 
@@ -35,29 +33,29 @@ Professional service delivery emphasizing both career opportunity and actual Swe
 ```
 
 ### MUMBAI-JOB-02: Professional Training Program
-**SEO Alt Text**: "Massage therapy training in Mumbai with professional certification and local job placement"
+**SEO Alt Text**: "Massage therapy training in Mumbai with professional certification and local career placement"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-mumbai-professional-certification-local
+massage-therapy-training-mumbai-professional-certification-career
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Professional massage therapy training with deep tissue specialization in Mumbai institute. Scene: male instructor demonstrating deep tissue massage techniques using firm pressure and targeted strokes on training model while students observe and practice. Training elements: hands-on deep tissue practice with premium equipment, muscle anatomy charts showing pressure points, therapeutic technique demonstration for chronic tension relief. Environment: modern Mumbai training facility with professional massage tables, anatomical models, certification materials, placement assistance displays showing "₹35K-₹75K Deep Tissue Specialist" salary ranges. Mumbai integration: focus on financial sector stress patterns, corporate wellness preparation, urban lifestyle therapy needs. Career benefits displayed: "Deep Tissue Certification Mumbai", "Specialized Technique Training", "Premium Earning Potential", "High Demand Skill". Professional educational excellence emphasizing both deep tissue massage mastery and lucrative career opportunities in Mumbai's wellness industry.
+Professional massage therapy training with deep tissue specialization in Mumbai institute. Scene: male instructor demonstrating deep tissue massage techniques using firm pressure and targeted strokes on training model while mixed student group observes and practices in Mumbai training facility. Training elements: hands-on deep tissue practice with premium equipment, muscle anatomy charts showing pressure points, therapeutic technique demonstration for chronic tension relief. Environment: modern Mumbai training facility with professional massage tables, anatomical models, certification materials, placement assistance displays showing "₹35K-₹75K Deep Tissue Specialist" salary ranges. Mumbai integration: focus on financial sector stress patterns, corporate wellness preparation, urban lifestyle therapy needs. Career benefits displayed: "Deep Tissue Certification Mumbai", "Specialized Technique Training", "Premium Earning Potential", "High Demand Skill". Professional educational excellence emphasizing both deep tissue massage mastery and lucrative career opportunities in Mumbai's wellness industry.
 ```
 
 ### MUMBAI-JOB-03: Success Stories & Earnings
-**SEO Alt Text**: "Massage therapist career success in Mumbai with lifestyle benefits and earning potential"
+**SEO Alt Text**: "Massage therapist career success in Mumbai with professional lifestyle benefits and earning potential"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-mumbai-lifestyle-earnings
+massage-therapist-career-success-mumbai-professional-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Successful male massage therapist performing Thai massage in Mumbai's luxury residential setting. Scene: therapist providing traditional Thai massage with assisted yoga stretches and acupressure to female client (comfortable attire, privacy maintained) on floor mat in premium Mumbai apartment. Career success elements displayed: earning progression chart showing ₹25K to ₹70K+ monthly growth, client testimonials, professional achievement certificates, "Mumbai's Top Thai Specialist" recognition. Environment: upscale South Mumbai residence with modern furnishings, city views, traditional Thai elements integrated with contemporary luxury, professional massage setup. Success indicators: "Thai Massage Specialist", "Premium Mumbai Clientele", "₹70K+ Monthly Income", "Career Growth". Professional service delivery showcasing both Thai massage expertise and financial success in Mumbai's elite wellness market, emphasizing specialized technique mastery and premium earning potential.
+Successful massage therapist performing Thai massage in Mumbai's luxury residential setting with diverse success scenarios. **Version A**: Male therapist providing traditional Thai massage with assisted yoga stretches and acupressure to female client (comfortable attire, privacy maintained) on floor mat in premium Mumbai apartment. **Version B**: Professional female therapist demonstrating Thai massage success with male client. **Version C**: Male massage specialist showing Thai techniques with male client. **Version D**: Female Thai massage expert providing service to female client. Scene: premium Mumbai apartment with professional Thai massage setup. Career success elements displayed: earning progression chart showing ₹25K to ₹70K+ monthly growth, client testimonials, professional achievement certificates, "Mumbai's Top Thai Specialist" recognition. Environment: upscale South Mumbai residence with modern furnishings, city views, traditional Thai elements integrated with contemporary luxury, professional massage setup. Success indicators: "Thai Massage Specialist", "Premium Mumbai Clientele", "₹70K+ Monthly Income", "Career Growth". Professional service delivery showcasing both Thai massage expertise and financial success in Mumbai's elite wellness market, emphasizing specialized technique mastery and premium earning potential.
 ```
 
 ---
@@ -65,16 +63,16 @@ Successful male massage therapist performing Thai massage in Mumbai's luxury res
 ## DELHI (3 images)
 
 ### DELHI-JOB-01: Government & Corporate Career Hub
-**SEO Alt Text**: "Massage therapist jobs in Delhi NCR 2025 with high salary and government corporate training"
+**SEO Alt Text**: "Massage therapist jobs in Delhi NCR 2025 with competitive salary and government corporate training"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-delhi-2025-high-salary-training
+massage-therapist-jobs-delhi-2025-competitive-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Professional male massage therapist providing Ayurvedic massage in Delhi's premium residential setting. Scene: therapist performing traditional Ayurvedic massage with warm herbal oils and synchronized strokes to female client (privacy maintained) in elegant Delhi residence. Career opportunity elements displayed: salary progression chart (₹25K-₹65K monthly), "Join Delhi's Ayurvedic Specialists" recruitment materials, government and corporate client testimonials, stable career growth indicators. Environment: sophisticated Delhi home with traditional Indian architectural elements, modern luxury amenities, professional Ayurvedic massage setup with copper vessels and herbal oils. Delhi characteristics: traditional wellness heritage integrated with capital city luxury, government quarter proximity, cultural authenticity. Career benefits highlighted: "Ayurvedic Specialist Delhi 2025", "Government Corporate Clients", "Traditional Wellness Expert", "Capital City Premium". Professional service delivery showcasing both authentic Ayurvedic massage expertise and stable career opportunities in Delhi's traditional wellness market.
+Professional massage therapist providing Ayurvedic massage in Delhi's premium residential setting with diverse service scenarios. **Version A**: Male therapist performing traditional Ayurvedic massage with warm herbal oils and synchronized strokes to female client (privacy maintained). **Version B**: Female Ayurvedic specialist providing traditional massage to male government executive. **Version C**: Professional male therapist serving male client with authentic Ayurvedic techniques. **Version D**: Female massage expert delivering Ayurvedic therapy to female client. Scene: elegant Delhi residence with traditional wellness setup. Career opportunity elements displayed: salary progression chart (₹25K-₹65K monthly), "Join Delhi's Ayurvedic Specialists" recruitment materials, government and corporate client testimonials, stable career growth indicators. Environment: sophisticated Delhi home with traditional Indian architectural elements, modern luxury amenities, professional Ayurvedic massage setup with copper vessels and herbal oils. Delhi characteristics: traditional wellness heritage integrated with capital city luxury, government quarter proximity, cultural authenticity. Career benefits highlighted: "Ayurvedic Specialist Delhi 2025", "Government Corporate Clients", "Traditional Wellness Expert", "Capital City Premium". Professional service delivery showcasing both authentic Ayurvedic massage expertise and stable career opportunities in Delhi's traditional wellness market.
 ```
 
 ### DELHI-JOB-02: Traditional & Modern Training Integration
@@ -82,12 +80,12 @@ Professional male massage therapist providing Ayurvedic massage in Delhi's premi
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-delhi-professional-certification-local
+massage-therapy-training-delhi-professional-certification-career
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Comprehensive hot stone massage training program in Delhi institute. Scene: male instructor demonstrating hot stone massage technique using heated basalt stones on training model, with students practicing proper stone placement and temperature control. Training elements: therapeutic hot stone application, temperature safety protocols, luxury spa technique mastery, traditional Indian wellness integration. Environment: modern Delhi training facility with traditional elements, professional hot stone equipment, temperature control systems, certification displays showing "₹30K-₹68K Hot Stone Specialist" rates. Delhi integration: traditional Indian thermal therapy heritage, government wellness standards, capital city luxury service preparation. Career benefits displayed: "Hot Stone Certification Delhi", "Luxury Technique Training", "Premium Service Skills", "Traditional Modern Fusion". Professional educational excellence emphasizing both hot stone massage mastery and career advancement in Delhi's traditional-luxury wellness market.
+Comprehensive hot stone massage training program in Delhi institute with diverse training scenarios. **Version A**: Male instructor demonstrating hot stone massage technique using heated basalt stones on training model, with students practicing proper stone placement and temperature control. **Version B**: Female instructor teaching hot stone methods to mixed student group. **Version C**: Professional male trainer showing specialized hot stone techniques with male training model. **Version D**: Female expert instructor demonstrating hot stone therapy on female training model. Scene: Delhi training facility with temperature control systems and students practicing techniques. Training elements: therapeutic hot stone application, temperature safety protocols, luxury spa technique mastery, traditional Indian wellness integration. Environment: modern Delhi training facility with traditional elements, professional hot stone equipment, temperature control systems, certification displays showing "₹30K-₹68K Hot Stone Specialist" rates. Delhi integration: traditional Indian thermal therapy heritage, government wellness standards, capital city luxury service preparation. Career benefits displayed: "Hot Stone Certification Delhi", "Luxury Technique Training", "Premium Service Skills", "Traditional Modern Fusion". Professional educational excellence emphasizing both hot stone massage mastery and career advancement in Delhi's traditional-luxury wellness market.
 ```
 
 ### DELHI-JOB-03: Stable Career with Cultural Heritage
@@ -95,12 +93,12 @@ Comprehensive hot stone massage training program in Delhi institute. Scene: male
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-delhi-lifestyle-earnings
+massage-therapist-career-success-delhi-professional-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Successful male massage therapist delivering aromatherapy massage in Delhi's luxury setting. Scene: therapist providing personalized aromatherapy massage using essential oil blends with female client (privacy maintained) in upscale Delhi residence near India Gate. Career success elements displayed: income progression showing ₹25K to ₹65K+ monthly growth, government and corporate client testimonials, "Delhi's Top Aromatherapy Specialist" certification, professional recognition awards. Environment: elegant Delhi home with traditional Indian luxury design, modern amenities, aromatherapy station with essential oils, cultural heritage integration. Success indicators: "Aromatherapy Expert Delhi", "Government Corporate Clients", "Cultural Wellness Heritage", "₹65K+ Specialist Income". Professional service delivery showcasing both aromatherapy massage expertise and stable career success in Delhi's traditional-luxury wellness market with cultural authenticity.
+Successful massage therapist delivering aromatherapy massage in Delhi's luxury setting with diverse success scenarios. **Version A**: Male therapist providing personalized aromatherapy massage using essential oil blends with female client (privacy maintained) in upscale Delhi residence near India Gate. **Version B**: Professional female therapist demonstrating aromatherapy success with male government client. **Version C**: Male aromatherapy specialist showing techniques with male client. **Version D**: Female aromatherapy expert providing service to female client. Scene: upscale Delhi residence with essential oil setup and cultural heritage elements. Career success elements displayed: income progression showing ₹25K to ₹65K+ monthly growth, government and corporate client testimonials, "Delhi's Top Aromatherapy Specialist" certification, professional recognition awards. Environment: elegant Delhi home with traditional Indian luxury design, modern amenities, aromatherapy station with essential oils, cultural heritage integration. Success indicators: "Aromatherapy Expert Delhi", "Government Corporate Clients", "Cultural Wellness Heritage", "₹65K+ Specialist Income". Professional service delivery showcasing both aromatherapy massage expertise and stable career success in Delhi's traditional-luxury wellness market with cultural authenticity.
 ```
 
 ---
@@ -108,16 +106,16 @@ Successful male massage therapist delivering aromatherapy massage in Delhi's lux
 ## BANGALORE (3 images)
 
 ### BANGALORE-JOB-01: Tech Industry Stress Relief Specialist
-**SEO Alt Text**: "Massage therapist jobs in Bangalore 2025 specializing in IT professional stress relief and high salary"
+**SEO Alt Text**: "Massage therapist jobs in Bangalore 2025 specializing in IT professional stress relief and competitive salary"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-bangalore-2025-high-salary-training
+massage-therapist-jobs-bangalore-2025-competitive-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Professional male massage therapist providing sports massage in Bangalore's premium residential setting. Scene: therapist performing sports recovery massage with targeted muscle work and stretching techniques to female client (athletic attire, privacy maintained) in modern Bangalore apartment. Career opportunity elements displayed: salary chart (₹28K-₹65K monthly), "Join Bangalore's Sports Specialists" materials, tech professional client testimonials, flexible scheduling benefits. Environment: contemporary Bangalore residence with modern fitness equipment visible, tech hub city views, professional sports massage setup with recovery tools. Bangalore elements: Silicon Valley lifestyle integration, fitness-conscious tech culture, modern wellness standards. Career benefits highlighted: "Sports Massage Specialist Bangalore", "Tech Professional Clients", "Fitness Industry Growth", "Modern Lifestyle Integration". Professional service delivery showcasing both sports massage expertise and career opportunities in Bangalore's tech-fitness wellness market.
+Professional massage therapist providing sports massage in Bangalore's premium residential setting with diverse sports therapy scenarios. **Version A**: Male therapist performing sports recovery massage with targeted muscle work and stretching techniques to female client (athletic attire, privacy maintained). **Version B**: Female sports massage specialist providing recovery therapy to male IT professional. **Version C**: Professional male therapist serving male athlete with sports massage techniques. **Version D**: Female sports therapy expert providing recovery service to female tech professional. Scene: modern Bangalore apartment with fitness equipment visible. Career opportunity elements displayed: salary chart (₹28K-₹65K monthly), "Join Bangalore's Sports Specialists" materials, tech professional client testimonials, flexible scheduling benefits. Environment: contemporary Bangalore residence with modern fitness equipment visible, tech hub city views, professional sports massage setup with recovery tools. Bangalore elements: Silicon Valley lifestyle integration, fitness-conscious tech culture, modern wellness standards. Career benefits highlighted: "Sports Massage Specialist Bangalore", "Tech Professional Clients", "Fitness Industry Growth", "Modern Lifestyle Integration". Professional service delivery showcasing both sports massage expertise and career opportunities in Bangalore's tech-fitness wellness market.
 ```
 
 ### BANGALORE-JOB-02: Ergonomic Wellness Training
@@ -125,12 +123,12 @@ Professional male massage therapist providing sports massage in Bangalore's prem
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-bangalore-professional-certification-local
+massage-therapy-training-bangalore-professional-certification-career
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Comprehensive couple massage training program in Bangalore institute. Scene: male instructor demonstrating synchronized couple massage techniques with two training models, teaching proper coordination and communication for dual therapist service. Training elements: couple massage choreography, synchronized technique practice, luxury service protocols, relationship wellness specialization. Environment: modern Bangalore training facility with multiple massage tables, couple massage setup demonstration, romantic ambiance training materials, certification displays showing "₹35K-₹70K Couple Specialist" rates. Bangalore integration: modern lifestyle focus, tech professional couple clientele, garden city romantic culture, international service standards. Career benefits displayed: "Couple Massage Certification", "Luxury Service Training", "Premium Earning Potential", "Relationship Wellness Expert". Professional educational excellence emphasizing both couple massage mastery and lucrative career opportunities in Bangalore's modern wellness market.
+Comprehensive couple massage training program in Bangalore institute with diverse training scenarios. **Version A**: Male instructor demonstrating synchronized couple massage techniques with two training models, teaching proper coordination and communication for dual therapist service. **Version B**: Female instructor teaching couple massage coordination to mixed student group. **Version C**: Professional male trainer showing couple techniques with male training assistants. **Version D**: Female expert instructor demonstrating synchronized therapy with female training models. Scene: Bangalore training facility with multiple massage tables and romantic ambiance training materials. Training elements: couple massage choreography, synchronized technique practice, luxury service protocols, relationship wellness specialization. Environment: modern Bangalore training facility with multiple massage tables, couple massage setup demonstration, romantic ambiance training materials, certification displays showing "₹35K-₹70K Couple Specialist" rates. Bangalore integration: modern lifestyle focus, tech professional couple clientele, garden city romantic culture, international service standards. Career benefits displayed: "Couple Massage Certification", "Luxury Service Training", "Premium Earning Potential", "Relationship Wellness Expert". Professional educational excellence emphasizing both couple massage mastery and lucrative career opportunities in Bangalore's modern wellness market.
 ```
 
 ### BANGALORE-JOB-03: Tech Lifestyle Career Success
@@ -138,12 +136,12 @@ Comprehensive couple massage training program in Bangalore institute. Scene: mal
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-career-success-bangalore-lifestyle-earnings
+massage-therapist-career-success-bangalore-professional-lifestyle-earnings
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Successful male massage therapist delivering prenatal massage in Bangalore's luxury setting. Scene: therapist providing specialized prenatal massage with proper positioning and gentle techniques to expectant mother (privacy maintained, professional draping) in modern Bangalore residence. Career success elements displayed: income progression ₹28K to ₹65K+ monthly, prenatal specialization certification, "Bangalore's Top Prenatal Expert" recognition, tech family clientele testimonials. Environment: contemporary Bangalore home with modern amenities, garden city views, specialized prenatal massage equipment, comfortable setting for expectant mothers. Success indicators: "Prenatal Specialist Bangalore", "Tech Family Clients", "Specialized Certification", "₹65K+ Expert Income". Professional service delivery showcasing both prenatal massage expertise and career success in Bangalore's modern family wellness market with tech professional clientele.
+Successful massage therapist delivering prenatal massage in Bangalore's luxury setting with diverse specialized scenarios. **Version A**: Male therapist providing specialized prenatal massage with proper positioning and gentle techniques to expectant mother (privacy maintained, professional draping). **Version B**: Professional female therapist demonstrating prenatal expertise with expectant client. **Version C**: Male prenatal specialist showing techniques in family-focused setting. **Version D**: Female prenatal expert providing specialized care to expectant mother. Scene: modern Bangalore residence with specialized prenatal massage equipment and comfortable setting. Career success elements displayed: income progression ₹28K to ₹65K+ monthly, prenatal specialization certification, "Bangalore's Top Prenatal Expert" recognition, tech family clientele testimonials. Environment: contemporary Bangalore home with modern amenities, garden city views, specialized prenatal massage equipment, comfortable setting for expectant mothers. Success indicators: "Prenatal Specialist Bangalore", "Tech Family Clients", "Specialized Certification", "₹65K+ Expert Income". Professional service delivery showcasing both prenatal massage expertise and career success in Bangalore's modern family wellness market with tech professional clientele.
 ```
 
 ---
@@ -151,16 +149,16 @@ Successful male massage therapist delivering prenatal massage in Bangalore's lux
 ## CHENNAI (3 images)
 
 ### CHENNAI-JOB-01: Cultural Heritage Wellness Career
-**SEO Alt Text**: "Massage therapist jobs in Chennai 2025 with traditional Tamil wellness and high salary opportunities"
+**SEO Alt Text**: "Massage therapist jobs in Chennai 2025 with traditional Tamil wellness and competitive salary opportunities"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-chennai-2025-high-salary-training
+massage-therapist-jobs-chennai-2025-competitive-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Professional male massage therapist providing reflexology in Chennai's coastal residential setting. Scene: therapist performing foot reflexology with pressure point techniques to female client (privacy maintained) seated in comfortable chair in Chennai beach-view apartment. Career opportunity elements displayed: salary progression (₹24K-₹60K monthly), "Join Chennai's Reflexology Experts" recruitment materials, cultural tourism client testimonials, coastal lifestyle benefits. Environment: Chennai residence with traditional Tamil elements, modern coastal luxury, Marina Beach views, professional reflexology setup with charts and tools. Chennai characteristics: traditional Tamil wellness heritage, coastal relaxation culture, cultural tourism integration. Career benefits highlighted: "Reflexology Specialist Chennai", "Cultural Tourism Clients", "Traditional Wellness Heritage", "Coastal Lifestyle Benefits". Professional service delivery showcasing both reflexology expertise and career opportunities in Chennai's traditional-coastal wellness market.
+Professional massage therapist providing reflexology in Chennai's coastal residential setting with diverse reflexology scenarios. **Version A**: Male therapist performing foot reflexology with pressure point techniques to female client (privacy maintained) seated in comfortable chair. **Version B**: Female reflexology specialist providing foot therapy to male coastal business client. **Version C**: Professional male therapist serving male client with reflexology techniques. **Version D**: Female reflexology expert providing pressure point therapy to female client. Scene: Chennai beach-view apartment with traditional Tamil elements and coastal views. Career opportunity elements displayed: salary progression (₹24K-₹60K monthly), "Join Chennai's Reflexology Experts" recruitment materials, cultural tourism client testimonials, coastal lifestyle benefits. Environment: Chennai residence with traditional Tamil elements, modern coastal luxury, Marina Beach views, professional reflexology setup with charts and tools. Chennai characteristics: traditional Tamil wellness heritage, coastal relaxation culture, cultural tourism integration. Career benefits highlighted: "Reflexology Specialist Chennai", "Cultural Tourism Clients", "Traditional Wellness Heritage", "Coastal Lifestyle Benefits". Professional service delivery showcasing both reflexology expertise and career opportunities in Chennai's traditional-coastal wellness market.
 ```
 
 ### CHENNAI-JOB-02: Traditional Medicine Integration Training
@@ -168,7 +166,7 @@ Professional male massage therapist providing reflexology in Chennai's coastal r
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapy-training-chennai-professional-certification-local
+massage-therapy-training-chennai-professional-certification-career
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -194,16 +192,16 @@ Successful male massage therapist delivering chair massage in Chennai's corporat
 ## HYDERABAD (3 images)
 
 ### HYDERABAD-JOB-01: Pharma & Tech Industry Wellness
-**SEO Alt Text**: "Massage therapist jobs in Hyderabad 2025 serving pharma and tech industries with high salary potential"
+**SEO Alt Text**: "Massage therapist jobs in Hyderabad 2025 serving pharma and tech industries with competitive salary potential"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-hyderabad-2025-high-salary-training
+massage-therapist-jobs-hyderabad-2025-competitive-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Professional male massage therapist providing trigger point therapy in Hyderabad's tech executive residence. Scene: therapist performing targeted trigger point massage with precise pressure techniques to female client (privacy maintained) in modern Hyderabad apartment near HITEC City. Career opportunity elements displayed: salary progression (₹26K-₹62K monthly), "Join Hyderabad's Trigger Point Experts" materials, pharma and tech client testimonials, Nizami heritage integration. Environment: contemporary Hyderabad residence with tech corridor views, modern amenities, professional trigger point therapy tools, Nizami architectural touches. Hyderabad characteristics: pharmaceutical capital precision, tech industry stress relief, Pearl City luxury, professional diversity. Career benefits highlighted: "Trigger Point Specialist Hyderabad", "Pharma Tech Clients", "Precision Therapy Expert", "Professional Hub Growth". Professional service delivery showcasing both trigger point therapy expertise and career opportunities in Hyderabad's pharma-tech wellness market.
+Professional massage therapist providing trigger point therapy in Hyderabad's tech executive residence with diverse specialized scenarios. **Version A**: Male therapist performing targeted trigger point massage with precise pressure techniques to female client (privacy maintained). **Version B**: Female trigger point specialist providing precise therapy to male pharma executive. **Version C**: Professional male therapist serving male tech client with targeted techniques. **Version D**: Female trigger point expert providing specialized therapy to female tech professional. Scene: modern Hyderabad apartment near HITEC City with pharmaceutical and tech industry elements. Career opportunity elements displayed: salary progression (₹26K-₹62K monthly), "Join Hyderabad's Trigger Point Experts" materials, pharma and tech client testimonials, Nizami heritage integration. Environment: contemporary Hyderabad residence with tech corridor views, modern amenities, professional trigger point therapy tools, Nizami architectural touches. Hyderabad characteristics: pharmaceutical capital precision, tech industry stress relief, Pearl City luxury, professional diversity. Career benefits highlighted: "Trigger Point Specialist Hyderabad", "Pharma Tech Clients", "Precision Therapy Expert", "Professional Hub Growth". Professional service delivery showcasing both trigger point therapy expertise and career opportunities in Hyderabad's pharma-tech wellness market.
 ```
 
 ### HYDERABAD-JOB-02: Corporate Wellness Specialization
@@ -237,16 +235,16 @@ Professional industry career success for massage therapists in Hyderabad. Scene:
 ## PUNE (3 images)
 
 ### PUNE-JOB-01: Automotive & IT Hub Wellness
-**SEO Alt Text**: "Massage therapist jobs in Pune 2025 serving automotive and IT professionals with competitive salary"
+**SEO Alt Text**: "Massage therapist jobs in Pune 2025 serving automotive and IT professionals with competitive earning potential"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-therapist-jobs-pune-2025-high-salary-training
+massage-therapist-jobs-pune-2025-competitive-salary-training
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Professional male massage therapist delivering shiatsu massage in Pune's automotive executive residence. Scene: therapist performing traditional Japanese shiatsu with finger pressure techniques and energy meridian work to female client (privacy maintained) in modern Pune home near Koregaon Park. Career opportunity elements displayed: salary chart (₹25K-₹60K monthly), "Join Pune's Shiatsu Specialists" recruitment materials, automotive and IT professional testimonials, educational city integration. Environment: contemporary Pune residence with automotive industry success indicators, modern furnishings, traditional shiatsu equipment, educational city atmosphere. Pune characteristics: automotive capital precision, IT professional wellness, educational excellence, young professional culture. Career benefits highlighted: "Shiatsu Specialist Pune", "Automotive IT Professionals", "Japanese Technique Expert", "Educational Hub Advantage". Professional service delivery showcasing both shiatsu massage expertise and career opportunities in Pune's automotive-IT wellness market.
+Professional massage therapist delivering shiatsu massage in Pune's automotive executive residence with diverse traditional scenarios. **Version A**: Male therapist performing traditional Japanese shiatsu with finger pressure techniques and energy meridian work to female client (privacy maintained). **Version B**: Female shiatsu specialist providing traditional Japanese therapy to male automotive executive. **Version C**: Professional male therapist serving male IT professional with shiatsu techniques. **Version D**: Female shiatsu expert providing meridian work to female automotive professional. Scene: modern Pune home near Koregaon Park with automotive industry and educational city elements. Career opportunity elements displayed: salary chart (₹25K-₹60K monthly), "Join Pune's Shiatsu Specialists" recruitment materials, automotive and IT professional testimonials, educational city integration. Environment: contemporary Pune residence with automotive industry success indicators, modern furnishings, traditional shiatsu equipment, educational city atmosphere. Pune characteristics: automotive capital precision, IT professional wellness, educational excellence, young professional culture. Career benefits highlighted: "Shiatsu Specialist Pune", "Automotive IT Professionals", "Japanese Technique Expert", "Educational Hub Advantage". Professional service delivery showcasing both shiatsu massage expertise and career opportunities in Pune's automotive-IT wellness market.
 ```
 
 ### PUNE-JOB-02: Industrial Wellness Training

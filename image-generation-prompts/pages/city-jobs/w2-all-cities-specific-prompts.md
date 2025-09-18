@@ -10,42 +10,42 @@
 ## MUMBAI (3 images)
 
 ### MUMBAI-ELITE-JOB-01: Financial & Entertainment Elite Hub
-**SEO Alt Text**: "Elite spa therapist jobs in Mumbai serving luxury clients with premium pay and exclusive environment"
+**SEO Alt Text**: "Elite spa therapist jobs in Mumbai serving executive clients with premium pay and exclusive environment"
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-therapist-jobs-mumbai-luxury-clients-premium-pay
+elite-spa-therapist-jobs-mumbai-executive-clients-premium-pay
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Elite female spa therapist providing Executive Swedish Spa to business executive in Mumbai's luxury penthouse. Scene: professional female therapist delivering signature Swedish massage with imported organic oils to male executive client (privacy maintained, professional draping) in ultra-premium Mumbai penthouse overlooking Marine Drive. Elite career elements displayed: compensation chart (₹35K-₹85K monthly), "Join Mumbai's Elite Therapists" recruitment materials, Bollywood and financial sector client testimonials, exclusive service protocols. Environment: sophisticated Mumbai penthouse with city skyline views, marble surfaces, gold accents, luxury spa equipment, contemporary executive luxury design. Mumbai elite elements: financial district proximity, entertainment industry prestige, celebrity lifestyle integration, international luxury standards. Career benefits highlighted: "Elite Mumbai Careers", "Executive Swedish Specialist", "₹85K+ Premium Pay", "Celebrity Clientele". Ultra-professional service delivery showcasing both Executive Swedish spa expertise and exclusive career opportunities in Mumbai's entertainment-financial elite market.
+Elite spa therapist providing Executive Swedish Spa to business executive in Mumbai's luxury penthouse with diverse executive scenarios. **Version A**: Professional female therapist delivering signature Swedish massage with imported organic oils to male executive client (privacy maintained, professional draping). **Version B**: Male spa specialist providing Executive Swedish therapy to female business leader in luxury penthouse. **Version C**: Professional female therapist serving female executive client with premium Swedish techniques. **Version D**: Male elite therapist providing executive service to male business leader. Scene: ultra-premium Mumbai penthouse overlooking Marine Drive with sophisticated city skyline views. Elite career elements displayed: compensation chart (₹35K-₹85K monthly), "Join Mumbai's Elite Therapists" recruitment materials, Bollywood and financial sector client testimonials, exclusive service protocols. Environment: sophisticated Mumbai penthouse with city skyline views, marble surfaces, gold accents, luxury spa equipment, contemporary executive luxury design. Mumbai elite elements: financial district proximity, entertainment industry prestige, celebrity lifestyle integration, international luxury standards. Career benefits highlighted: "Elite Mumbai Careers", "Executive Swedish Specialist", "₹85K+ Premium Pay", "Celebrity Clientele". Ultra-professional service delivery showcasing both Executive Swedish spa expertise and exclusive career opportunities in Mumbai's entertainment-financial elite market.
 ```
 
 ### MUMBAI-ELITE-JOB-02: Celebrity & Executive Service Training
-**SEO Alt Text**: "Luxury spa training in Mumbai for celebrity and executive client service with elite discretion standards"
+**SEO Alt Text**: "Luxury spa training in Mumbai for executive and celebrity client service with elite discretion standards"
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-training-mumbai-executive-client-service-elite-standards
+luxury-spa-training-mumbai-executive-celebrity-service-elite-standards
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Elite Royal Thai Spa Ritual training for female therapists in Mumbai's luxury institute. Scene: professional female instructor demonstrating Royal Thai spa techniques with assisted yoga stretches and acupressure on training model, while students practice ancient royal protocols. Training elements: Thai royal massage traditions, no-oil technique mastery, celebrity flexibility protocols, executive stress relief through assisted stretching. Environment: ultra-premium Mumbai training facility with traditional Thai elements, luxury equipment, royal massage materials, celebrity discretion training stations. Mumbai integration: Bollywood flexibility needs, financial executive stress patterns, entertainment industry wellness standards, luxury tourism protocols. Career benefits displayed: "Royal Thai Certification Mumbai", "Celebrity Flexibility Expert", "Elite Training Standards", "Premium Technique Mastery". Sophisticated educational excellence emphasizing both Royal Thai spa mastery and exclusive career opportunities in Mumbai's entertainment-financial elite wellness market.
+Elite Royal Thai Spa Ritual training program in Mumbai's luxury institute with diverse training scenarios. **Version A**: Professional female instructor demonstrating Royal Thai spa techniques with assisted yoga stretches and acupressure on training model, while students practice ancient royal protocols. **Version B**: Male Royal Thai specialist teaching traditional techniques to mixed student group. **Version C**: Professional female trainer showing advanced Royal Thai methods with female training model. **Version D**: Male expert instructor demonstrating Royal Thai protocols with male training assistant. Scene: Mumbai luxury training facility with traditional Thai elements and celebrity discretion training stations. Training elements: Thai royal massage traditions, no-oil technique mastery, celebrity flexibility protocols, executive stress relief through assisted stretching. Environment: ultra-premium Mumbai training facility with traditional Thai elements, luxury equipment, royal massage materials, celebrity discretion training stations. Mumbai integration: Bollywood flexibility needs, financial executive stress patterns, entertainment industry wellness standards, luxury tourism protocols. Career benefits displayed: "Royal Thai Certification Mumbai", "Celebrity Flexibility Expert", "Elite Training Standards", "Premium Technique Mastery". Sophisticated educational excellence emphasizing both Royal Thai spa mastery and exclusive career opportunities in Mumbai's entertainment-financial elite wellness market.
 ```
 
 ### MUMBAI-ELITE-JOB-03: Bollywood & Financial Elite Success
-**SEO Alt Text**: "Elite spa career success in Mumbai luxury industry with Bollywood financial prestige and recognition"
+**SEO Alt Text**: "Elite spa career success in Mumbai entertainment industry with financial prestige and recognition"
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-career-success-mumbai-luxury-industry-prestige
+elite-spa-career-success-mumbai-entertainment-industry-prestige
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Successful female spa therapist delivering Volcanic Stone Elite therapy in Mumbai's celebrity residence. Scene: elite therapist performing volcanic stone massage with heated Hawaiian basalt stones and gold-infused oils to high-profile male client (privacy maintained) in exclusive Bollywood celebrity home. Career success elements displayed: income progression ₹35K to ₹85K+ monthly, celebrity testimonials, "Mumbai's Top Volcanic Stone Expert" recognition, entertainment industry prestige awards. Environment: ultra-luxury Mumbai celebrity residence with Bollywood glamour, marble surfaces, premium volcanic stone equipment, gold accent details, international hospitality standards. Success indicators: "Volcanic Stone Specialist", "Celebrity Elite Success", "Bollywood Prestige", "₹85K+ Elite Income". Sophisticated achievement aesthetic showcasing both Volcanic Stone Elite expertise and career success in Mumbai's entertainment-financial elite wellness market with international luxury recognition.
+Successful spa therapist delivering Volcanic Stone Elite therapy in Mumbai's celebrity residence with diverse elite scenarios. **Version A**: Elite female therapist performing volcanic stone massage with heated Hawaiian basalt stones and gold-infused oils to high-profile male client (privacy maintained). **Version B**: Professional male therapist providing Volcanic Stone therapy to female entertainment executive. **Version C**: Elite female specialist serving female celebrity client with premium volcanic stone techniques. **Version D**: Male spa expert providing luxury volcanic stone therapy to male entertainment industry leader. Scene: exclusive Bollywood celebrity home with ultra-luxury amenities and international hospitality standards. Career success elements displayed: income progression ₹35K to ₹85K+ monthly, celebrity testimonials, "Mumbai's Top Volcanic Stone Expert" recognition, entertainment industry prestige awards. Environment: ultra-luxury Mumbai celebrity residence with Bollywood glamour, marble surfaces, premium volcanic stone equipment, gold accent details, international hospitality standards. Success indicators: "Volcanic Stone Specialist", "Celebrity Elite Success", "Bollywood Prestige", "₹85K+ Elite Income". Sophisticated achievement aesthetic showcasing both Volcanic Stone Elite expertise and career success in Mumbai's entertainment-financial elite wellness market with international luxury recognition.
 ```
 
 ---
@@ -53,24 +53,24 @@ Successful female spa therapist delivering Volcanic Stone Elite therapy in Mumba
 ## DELHI (3 images)
 
 ### DELHI-ELITE-JOB-01: Government & Corporate Elite Capital
-**SEO Alt Text**: "Elite spa therapist jobs in Delhi serving government and corporate luxury clients with premium pay"
+**SEO Alt Text**: "Elite spa therapist jobs in Delhi serving government and corporate executive clients with premium pay"
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-therapist-jobs-delhi-luxury-clients-premium-pay
+elite-spa-therapist-jobs-delhi-executive-clients-premium-pay
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Elite female spa therapist providing Heritage Ayurvedic Ceremony to government executive in Delhi's diplomatic residence. Scene: professional female therapist performing traditional Ayurvedic massage with warm medicinal oils and synchronized strokes to male executive client (privacy maintained, professional draping) in elegant Delhi residence near Lutyens' Delhi. Elite career elements displayed: compensation chart (₹32K-₹80K monthly), "Join Delhi's Ayurvedic Elite" recruitment materials, government and diplomatic client testimonials, traditional luxury protocols. Environment: sophisticated Delhi residence with government quarter elegance, traditional Indian architectural elements, authentic Ayurvedic equipment with copper vessels, diplomatic protocol discretion. Delhi elite elements: government executive wellness, diplomatic community access, traditional Indian luxury heritage, capital city prestige. Career benefits highlighted: "Heritage Ayurvedic Specialist", "Government Elite Clients", "Traditional Luxury Expert", "₹80K+ Capital Premium". Elite service delivery showcasing both Heritage Ayurvedic ceremony expertise and exclusive career opportunities in Delhi's government-diplomatic elite market.
+Elite spa therapist providing Heritage Ayurvedic Ceremony to government executive in Delhi's diplomatic residence with diverse executive scenarios. **Version A**: Professional female therapist performing traditional Ayurvedic massage with warm medicinal oils and synchronized strokes to male executive client (privacy maintained, professional draping). **Version B**: Male Ayurvedic specialist providing heritage ceremony to female government leader. **Version C**: Professional female therapist serving female diplomatic client with traditional techniques. **Version D**: Male elite therapist providing Ayurvedic ceremony to male government executive. Scene: elegant Delhi residence near Lutyens' Delhi with government quarter elegance and traditional Indian architectural elements. Elite career elements displayed: compensation chart (₹32K-₹80K monthly), "Join Delhi's Ayurvedic Elite" recruitment materials, government and diplomatic client testimonials, traditional luxury protocols. Environment: sophisticated Delhi residence with government quarter elegance, traditional Indian architectural elements, authentic Ayurvedic equipment with copper vessels, diplomatic protocol discretion. Delhi elite elements: government executive wellness, diplomatic community access, traditional Indian luxury heritage, capital city prestige. Career benefits highlighted: "Heritage Ayurvedic Specialist", "Government Elite Clients", "Traditional Luxury Expert", "₹80K+ Capital Premium". Elite service delivery showcasing both Heritage Ayurvedic ceremony expertise and exclusive career opportunities in Delhi's government-diplomatic elite market.
 ```
 
 ### DELHI-ELITE-JOB-02: Diplomatic & Executive Service Training
-**SEO Alt Text**: "Luxury spa training in Delhi for diplomatic and executive client service with government elite standards"
+**SEO Alt Text**: "Luxury spa training in Delhi for executive and diplomatic client service with government elite standards"
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-spa-training-delhi-executive-client-service-elite-standards
+luxury-spa-training-delhi-executive-diplomatic-service-elite-standards
 ```
 
 ### 🎨 AI Prompt (Copy Below)
@@ -79,11 +79,11 @@ Elite Signature Aromatherapy Collection training for female therapists in Delhi'
 ```
 
 ### DELHI-ELITE-JOB-03: Capital Elite Career Prestige
-**SEO Alt Text**: "Elite spa career success in Delhi capital with government corporate luxury industry prestige"
+**SEO Alt Text**: "Elite spa career success in Delhi capital with government corporate executive industry prestige"
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-career-success-delhi-luxury-industry-prestige
+elite-spa-career-success-delhi-executive-industry-prestige
 ```
 
 ### 🎨 AI Prompt (Copy Below)

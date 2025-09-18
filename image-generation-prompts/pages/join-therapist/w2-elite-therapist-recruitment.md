@@ -2,24 +2,24 @@
 
 ## Overview
 **Page**: `/join-therapist` (Elite Therapist Recruitment)
-**Target**: Female spa therapists seeking premium career opportunities
+**Target**: Elite spa therapists seeking premium career opportunities
 **Images Required**: 5 images total
 **SEO Focus**: Elite spa careers, luxury therapist jobs, executive client service
 
 ---
 
 ## W2-THERAPIST-01: Elite Career Opportunity Hero
-**SEO Alt Text**: "Elite spa therapist careers serving luxury clients with premium compensation and exclusive environment"
+**SEO Alt Text**: "Elite spa therapist careers serving executive clients with premium compensation and exclusive environment"
 **Usage**: Primary hero section, elite recruitment landing
 
 ### 📁 File Name (Copy Below)
 ```
-elite-spa-therapist-careers-luxury-client-service
+elite-spa-therapist-careers-executive-client-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Elite spa career opportunity showcase for female therapists in luxury environment. Scene: sophisticated spa training facility or premium wellness center with professional female spa therapist (confident, elegant appearance) demonstrating advanced techniques with luxury equipment. Elite career elements visible: premium compensation charts (₹30K-₹80K monthly), exclusive client environment, luxury service standards, professional development opportunities. Environment: ultra-premium training facility with spa-resort quality equipment, marble surfaces, gold accents, contemporary luxury design. Benefits highlighted through sophisticated text overlays: "Elite Clientele", "Premium Compensation", "Luxury Environment", "Executive Service". Professional luxury aesthetic emphasizing exclusive career opportunity in high-end spa industry serving executive clientele.
+Elite spa career opportunity showcase in luxury environment. Scene: sophisticated spa training facility with professional male spa specialist (confident, elegant appearance) demonstrating advanced techniques with luxury equipment in ultra-premium training facility emphasizing elite career opportunities. Elite career elements visible: premium compensation charts (₹30K-₹80K monthly), exclusive client environment, luxury service standards, professional development opportunities. Environment: ultra-premium training facility with spa-resort quality equipment, marble surfaces, gold accents, contemporary luxury design. Benefits highlighted through sophisticated text overlays: "Elite Clientele", "Premium Compensation", "Luxury Environment", "Executive Service". Professional luxury aesthetic emphasizing exclusive career opportunity in high-end spa industry serving executive clientele.
 ```
 
 ---
@@ -35,7 +35,7 @@ luxury-spa-training-executive-client-service-standards
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Comprehensive elite spa training program for executive client service. Scene: premium training institute with female spa therapists learning specialized techniques for executive clientele. Training elements: executive client psychology, luxury service protocols, discretion training, premium product knowledge, advanced therapeutic techniques. Equipment visible: luxury spa tables, premium organic products, heated stone therapy, aromatherapy systems, executive service materials. Environment: spa-resort quality training facility with sophisticated ambiance, luxury materials, professional elegance. Educational benefits displayed: "Executive Service Training", "Luxury Standards", "Discretion Protocols", "Premium Techniques". Sophisticated educational excellence emphasizing elite service standards and executive client expertise.
+Comprehensive elite spa training program for executive client service. Scene: premium training institute with mixed-gender elite training class learning specialized techniques for executive clientele under female instructor teaching executive service standards in spa-resort quality training facility emphasizing elite professional development. Training elements: executive client psychology, luxury service protocols, discretion training, premium product knowledge, advanced therapeutic techniques. Equipment visible: luxury spa tables, premium organic products, heated stone therapy, aromatherapy systems, executive service materials. Environment: spa-resort quality training facility with sophisticated ambiance, luxury materials, professional elegance. Educational benefits displayed: "Executive Service Training", "Luxury Standards", "Discretion Protocols", "Premium Techniques". Sophisticated educational excellence emphasizing elite service standards and executive client expertise.
 ```
 
 ---
@@ -51,7 +51,7 @@ elite-spa-therapist-premium-compensation-exclusive-benefits
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Premium compensation showcase for elite spa therapist careers. Scene: professional female spa therapist in luxury spa environment providing executive-level service with compensation metrics elegantly displayed. Elite career benefits: earning progression (₹30K to ₹80K+ monthly), exclusive client access, luxury work environment, professional prestige. Environment: ultra-premium spa setting or executive home service showing career success, sophisticated equipment, luxury materials. Compensation indicators: "Premium Pay Scale", "Exclusive Clientele", "Luxury Work Environment", "Professional Prestige". Elite professional achievement aesthetic emphasizing high-end career positioning and financial success in luxury spa industry serving executive market.
+Premium compensation showcase for elite spa therapist careers. Scene: professional female spa therapist in luxury spa environment providing executive-level service with compensation metrics elegantly displayed in ultra-premium spa setting emphasizing elite career success. Elite career benefits: earning progression (₹30K to ₹80K+ monthly), exclusive client access, luxury work environment, professional prestige. Environment: ultra-premium spa setting or executive home service showing career success, sophisticated equipment, luxury materials. Compensation indicators: "Premium Pay Scale", "Exclusive Clientele", "Luxury Work Environment", "Professional Prestige". Elite professional achievement aesthetic emphasizing high-end career positioning and financial success in luxury spa industry serving executive market.
 ```
 
 ---
@@ -67,7 +67,7 @@ executive-spa-therapist-luxury-client-environment-discretion
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Executive client service environment for elite spa therapists. Scene: professional female spa therapist providing service in luxury executive environment - premium penthouse, executive office spa area, or high-end residential setting. Executive service elements: discretion protocols, professional boundaries, luxury amenities, executive lifestyle integration. Environment: sophisticated business-luxury setting with city views, contemporary design, premium materials, executive comfort elements. Service standards highlighted: "Executive Discretion", "Luxury Environment", "Professional Excellence", "Premium Experience". Ultra-professional aesthetic emphasizing elite client service and sophisticated work environment in executive spa industry.
+Executive client service environment for elite spa therapists. Scene: professional male spa therapist providing premium service in luxury executive environment - premium penthouse, executive office spa area, or high-end residential setting in sophisticated business-luxury environment emphasizing elite professional service. Executive service elements: discretion protocols, professional boundaries, luxury amenities, executive lifestyle integration. Environment: sophisticated business-luxury setting with city views, contemporary design, premium materials, executive comfort elements. Service standards highlighted: "Executive Discretion", "Luxury Environment", "Professional Excellence", "Premium Experience". Ultra-professional aesthetic emphasizing elite client service and sophisticated work environment in executive spa industry.
 ```
 
 ---
@@ -83,7 +83,7 @@ elite-spa-career-advancement-luxury-industry-leadership
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Elite career advancement pathway for luxury spa professionals. Scene: progression visualization showing spa therapist career development from premium service to industry leadership roles. Professional female therapist demonstrating executive consultation, spa management, luxury wellness consulting, elite client relationship management. Environment: premium spa management office or luxury wellness consulting space showing career progression, industry leadership materials, executive business elements. Growth elements: "Industry Leadership", "Executive Consulting", "Spa Management", "Luxury Wellness Expert". Sophisticated professional development aesthetic emphasizing elite career trajectory and leadership potential in luxury wellness industry serving executive market.
+Elite career advancement pathway for luxury spa professionals. Scene: progression visualization showing female spa therapist career development from premium service to industry leadership roles, demonstrating executive consultation and spa management in premium spa management facilities emphasizing elite career progression opportunities. Environment: premium spa management office or luxury wellness consulting space showing career progression, industry leadership materials, executive business elements. Growth elements: "Industry Leadership", "Executive Consulting", "Spa Management", "Luxury Wellness Expert". Sophisticated professional development aesthetic emphasizing elite career trajectory and leadership potential in luxury wellness industry serving executive market.
 ```
 
 ---
@@ -103,14 +103,14 @@ Elite career advancement pathway for luxury spa professionals. Scene: progressio
 - **Alt Text Length**: 110-140 characters for luxury job market
 
 ### Elite Recruitment Focus
-- **Target Audience**: Female spa therapists, luxury service professionals, career advancement seekers
+- **Target Audience**: Elite spa therapists, luxury service professionals, career advancement seekers
 - **Value Proposition**: Premium pay, elite clients, luxury environment, career prestige
 - **Industry Position**: Luxury wellness sector, executive client service, spa industry leadership
 - **Career Trajectory**: Executive service to industry leadership and consulting
 
 ### Brand Compliance
 - **Luxury Standards**: Resort-spa quality presentation and equipment
-- **Gender Focus**: Female therapist representation for W2 platform
+- **Professional Focus**: Diverse elite therapist representation for executive service
 - **Executive Positioning**: Business-luxury integration and executive service
 - **Discretion Emphasis**: Professional boundaries and client privacy
 

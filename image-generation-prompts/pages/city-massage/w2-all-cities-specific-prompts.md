@@ -10,29 +10,29 @@
 ## MUMBAI (3 images)
 
 ### MUMBAI-SPA-01: Financial Executive Penthouse Service
-**SEO Alt Text**: "Premium spa at home in Mumbai for financial executives with professional female therapist service"
+**SEO Alt Text**: "Premium spa at home in Mumbai for financial executives with professional therapeutic service"
 
 ### 📁 File Name (Copy Below)
 ```
-spa-at-home-mumbai-executive-premium-service
+spa-at-home-mumbai-executive-therapeutic-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Male executive enjoying Executive Swedish Spa in Mumbai's luxury penthouse. Scene: business executive (privacy maintained, no identifiable features) experiencing signature Swedish massage with imported organic oils in ultra-premium Mumbai penthouse overlooking Marine Drive. Executive experience: complete stress relief from financial sector pressures, therapeutic benefits of European spa techniques, luxury recovery after closing million-dollar deals, professional female therapist providing expert Swedish strokes. Setting: sophisticated Mumbai penthouse with floor-to-ceiling windows, contemporary luxury design, marble surfaces, premium spa-quality equipment with gold accents. Mumbai executive elements: financial district luxury standards, Bollywood industry sophistication, international business culture, cosmopolitan lifestyle integration. Atmosphere: absolute tranquility, executive stress management, sophisticated urban wellness sanctuary. Professional quality emphasizing premium relaxation benefits, stress relief, and Mumbai's elite executive lifestyle with international luxury standards.
+Executive enjoying Executive Swedish Spa in Mumbai's luxury penthouse with diverse premium scenarios. **Version A**: Male business executive (privacy maintained, no identifiable features) experiencing signature Swedish massage with imported organic oils from professional female therapist. **Version B**: Female business leader receiving Executive Swedish spa treatment from professional male therapist. **Version C**: Male executive experiencing Swedish therapy from male spa specialist. **Version D**: Female executive receiving premium Swedish massage from female therapist. Scene: ultra-premium Mumbai penthouse overlooking Marine Drive. Executive experience: complete stress relief from financial sector pressures, therapeutic benefits of European spa techniques, luxury recovery after closing million-dollar deals with expert Swedish strokes. Setting: sophisticated Mumbai penthouse with floor-to-ceiling windows, contemporary luxury design, marble surfaces, premium spa-quality equipment with gold accents. Mumbai executive elements: financial district luxury standards, Bollywood industry sophistication, international business culture, cosmopolitan lifestyle integration. Atmosphere: absolute tranquility, executive stress management, sophisticated urban wellness sanctuary. Professional quality emphasizing premium relaxation benefits, stress relief, and Mumbai's elite executive lifestyle with international luxury standards.
 ```
 
 ### MUMBAI-SPA-02: Bollywood Financial Elite Wellness Integration
-**SEO Alt Text**: "Executive spa service in Mumbai with corporate wellness integration for Bollywood financial professionals"
+**SEO Alt Text**: "Executive spa service in Mumbai with corporate wellness integration for entertainment financial professionals"
 
 ### 📁 File Name (Copy Below)
 ```
-executive-spa-service-mumbai-corporate-wellness-integration
+executive-spa-service-mumbai-corporate-entertainment-wellness-integration
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Male executive receiving Royal Thai Spa Ritual in Mumbai's celebrity residence. Scene: business executive (privacy maintained, comfortable attire) experiencing traditional Thai massage with assisted yoga stretches and acupressure in exclusive Mumbai residence with Bollywood glamour elements. Executive experience: energy restoration, increased flexibility, royal treatment benefits, professional female therapist guiding traditional Thai techniques perfect for jet lag recovery. Setting: ultra-luxury Mumbai setting with entertainment industry sophistication, traditional Thai elements integrated with contemporary luxury, financial district premium amenities. Mumbai executive elements: Bollywood industry connections, financial sector wellness integration, international luxury tourism standards, celebrity lifestyle sophistication. Atmosphere: energizing royal treatment, cultural wellness experience, exclusive entertainment industry prestige. Professional quality emphasizing flexibility benefits, energy restoration, and Mumbai's unique entertainment-financial elite wellness culture.
+Executive receiving Royal Thai Spa Ritual in Mumbai's celebrity residence with diverse royal scenarios. **Version A**: Male business executive (privacy maintained, comfortable attire) experiencing traditional Thai massage with assisted yoga stretches and acupressure from professional female therapist. **Version B**: Female entertainment executive receiving Royal Thai ritual from professional male therapist. **Version C**: Male executive experiencing Thai therapy from male spa specialist. **Version D**: Female business leader receiving royal Thai treatment from female therapist. Scene: exclusive Mumbai residence with Bollywood glamour elements. Executive experience: energy restoration, increased flexibility, royal treatment benefits with traditional Thai techniques perfect for jet lag recovery. Setting: ultra-luxury Mumbai setting with entertainment industry sophistication, traditional Thai elements integrated with contemporary luxury, financial district premium amenities. Mumbai executive elements: Bollywood industry connections, financial sector wellness integration, international luxury tourism standards, celebrity lifestyle sophistication. Atmosphere: energizing royal treatment, cultural wellness experience, exclusive entertainment industry prestige. Professional quality emphasizing flexibility benefits, energy restoration, and Mumbai's unique entertainment-financial elite wellness culture.
 ```
 
 ### MUMBAI-SPA-03: Cosmopolitan Executive Premium Discretion

@@ -10,42 +10,42 @@
 ## MUMBAI (3 images)
 
 ### MUMBAI-MASSAGE-01: Financial District Luxury Service
-**SEO Alt Text**: "Professional massage at home in Mumbai with certified male therapist and luxury service"
+**SEO Alt Text**: "Professional massage at home in Mumbai with certified therapist and luxury service"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-mumbai-professional-therapist-service
+massage-at-home-mumbai-certified-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Female client enjoying relaxing Swedish massage at home in Mumbai's luxury apartment. Scene: serene female client (privacy maintained with premium spa towels, no identifiable features) experiencing Swedish massage with long, flowing strokes and premium organic oils in elegant South Mumbai residence overlooking Marine Drive. Client experience: complete relaxation, stress melting away from financial district pressures, therapeutic benefit of imported organic oils, professional male therapist providing expert Swedish techniques. Setting: upscale Mumbai apartment with contemporary luxury design, marble flooring, city skyline views, warm ambient lighting, premium spa-quality setup. Mumbai lifestyle integration: post-work relaxation for financial sector professional, luxury home comfort, cosmopolitan wellness culture. Atmosphere: ultimate serenity, stress relief from Mumbai's fast pace, sophisticated urban wellness experience. Professional quality emphasizing client comfort, therapeutic benefits, and Mumbai's premium residential luxury lifestyle.
+Client enjoying relaxing Swedish massage at home in Mumbai's luxury apartment. Scene: serene male client (privacy maintained with premium spa towels, no identifiable features) experiencing Swedish massage with long, flowing strokes and premium organic oils from professional female therapist in elegant South Mumbai residence overlooking Marine Drive. Client experience: complete relaxation, stress melting away from financial district pressures, therapeutic benefit of imported organic oils with expert Swedish techniques. Setting: upscale Mumbai apartment with contemporary luxury design, marble flooring, city skyline views, warm ambient lighting, premium spa-quality setup. Mumbai lifestyle integration: post-work relaxation for financial sector professional, luxury home comfort, cosmopolitan wellness culture. Atmosphere: ultimate serenity, stress relief from Mumbai's fast pace, sophisticated urban wellness experience. Professional quality emphasizing client comfort, therapeutic benefits, and Mumbai's premium residential luxury lifestyle.
 ```
 
 ### MUMBAI-MASSAGE-02: Marine Drive Wellness Lifestyle
-**SEO Alt Text**: "Luxury massage service in Mumbai homes integrating wellness into cosmopolitan lifestyle"
+**SEO Alt Text**: "Luxury massage service in Mumbai homes integrating wellness into professional cosmopolitan lifestyle"
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-mumbai-home-wellness-lifestyle
+luxury-massage-service-mumbai-home-professional-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Female client receiving therapeutic deep tissue massage in Mumbai's luxury residential setting. Scene: female client (privacy maintained, no identifiable features) experiencing intense deep tissue therapy with firm pressure and targeted muscle work in sophisticated Bandra West apartment. Client experience: relief from chronic tension, therapeutic healing from deep muscle work, stress release from high-pressure Mumbai lifestyle, professional male therapist applying precise deep tissue techniques. Setting: luxury Mumbai residence with modern amenities, city views, contemporary furnishings, professional deep tissue equipment including therapeutic oils and heated towels. Mumbai integration: recovery from financial district stress, cosmopolitan wellness culture, luxury home convenience for busy professionals. Atmosphere: healing and therapeutic focus, muscle tension relief, sophisticated urban wellness sanctuary. Professional quality emphasizing therapeutic benefits, pain relief, and Mumbai's premium lifestyle wellness priorities.
+Client receiving therapeutic deep tissue massage in Mumbai's luxury residential setting with diverse therapeutic scenarios. **Version A**: Female client (privacy maintained, no identifiable features) experiencing intense deep tissue therapy with firm pressure and targeted muscle work from professional male therapist. **Version B**: Male business professional receiving deep tissue therapy from professional female therapist. **Version C**: Female client experiencing deep tissue treatment from female massage specialist. **Version D**: Male client receiving precise deep tissue therapy from male therapist. Scene: sophisticated Bandra West apartment. Client experience: relief from chronic tension, therapeutic healing from deep muscle work, stress release from high-pressure Mumbai lifestyle with precise deep tissue techniques. Setting: luxury Mumbai residence with modern amenities, city views, contemporary furnishings, professional deep tissue equipment including therapeutic oils and heated towels. Mumbai integration: recovery from financial district stress, cosmopolitan wellness culture, luxury home convenience for busy professionals. Atmosphere: healing and therapeutic focus, muscle tension relief, sophisticated urban wellness sanctuary. Professional quality emphasizing therapeutic benefits, pain relief, and Mumbai's premium lifestyle wellness priorities.
 ```
 
 ### MUMBAI-MASSAGE-03: Certified Professional Trust
-**SEO Alt Text**: "Professional certified massage therapist in Mumbai providing trusted home service"
+**SEO Alt Text**: "Professional certified massage therapist in Mumbai providing trusted therapeutic home service"
 
 ### 📁 File Name (Copy Below)
 ```
-professional-massage-therapist-mumbai-certified-home-service
+professional-massage-therapist-mumbai-certified-therapeutic-home-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Female client experiencing traditional Thai massage at home in Mumbai's upscale residence. Scene: female client (privacy maintained, comfortable attire) receiving Thai massage with assisted yoga stretches and acupressure on floor mat in luxury Mumbai apartment near Worli. Client experience: increased flexibility, energy restoration, traditional Thai healing benefits, professional male therapist guiding gentle stretches and pressure point work. Setting: sophisticated Mumbai residence with modern luxury, city skyline views, traditional Thai elements integrated with contemporary design, professional Thai massage setup. Mumbai integration: energy boost for cosmopolitan lifestyle, flexibility for high-stress professionals, cultural wellness diversity reflecting Mumbai's international character. Atmosphere: energizing and rejuvenating, cultural wellness experience, sophisticated lifestyle enhancement. Professional quality emphasizing flexibility benefits, energy restoration, and Mumbai's diverse luxury wellness offerings for discerning residents.
+Client experiencing traditional Thai massage at home in Mumbai's upscale residence with diverse traditional scenarios. **Version A**: Female client (privacy maintained, comfortable attire) receiving Thai massage with assisted yoga stretches and acupressure from professional male therapist. **Version B**: Male executive experiencing Thai massage with flexibility work from professional female therapist. **Version C**: Female client receiving traditional Thai therapy from female massage specialist. **Version D**: Male client experiencing Thai stretches and pressure point work from male therapist. Scene: luxury Mumbai apartment near Worli with professional Thai massage setup on floor mat. Client experience: increased flexibility, energy restoration, traditional Thai healing benefits with gentle stretches and pressure point work. Setting: sophisticated Mumbai residence with modern luxury, city skyline views, traditional Thai elements integrated with contemporary design, professional Thai massage setup. Mumbai integration: energy boost for cosmopolitan lifestyle, flexibility for high-stress professionals, cultural wellness diversity reflecting Mumbai's international character. Atmosphere: energizing and rejuvenating, cultural wellness experience, sophisticated lifestyle enhancement. Professional quality emphasizing flexibility benefits, energy restoration, and Mumbai's diverse luxury wellness offerings for discerning residents.
 ```
 
 ---
@@ -53,29 +53,29 @@ Female client experiencing traditional Thai massage at home in Mumbai's upscale 
 ## DELHI (3 images)
 
 ### DELHI-MASSAGE-01: Capital City Traditional Luxury
-**SEO Alt Text**: "Professional massage at home in Delhi with traditional luxury and certified therapist service"
+**SEO Alt Text**: "Professional massage at home in Delhi with traditional luxury and certified therapeutic service"
 
 ### 📁 File Name (Copy Below)
 ```
-massage-at-home-delhi-professional-therapist-service
+massage-at-home-delhi-certified-therapist-service
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Female client enjoying Ayurvedic massage therapy at home in Delhi's traditional residence. Scene: female client (privacy maintained, no identifiable features) experiencing authentic Ayurvedic massage with warm herbal oils and synchronized strokes in elegant Delhi home with traditional Indian architectural elements. Client experience: holistic wellness benefits, traditional Indian healing, warm medicinal oil therapy, professional male therapist applying authentic Ayurvedic techniques with cultural respect. Setting: upscale Delhi residence with traditional architecture - high ceilings, archways, marble work - brass and deep red accents, sophisticated furnishings reflecting Delhi's cultural heritage. Delhi integration: traditional Indian wellness heritage, government capital sophistication, cultural authenticity with modern comfort. Atmosphere: spiritual wellness sanctuary, traditional healing experience, cultural heritage immersion. Professional quality emphasizing holistic benefits, traditional authenticity, and Delhi's rich Ayurvedic heritage for discerning residents.
+Client enjoying Ayurvedic massage therapy at home in Delhi's traditional residence with diverse traditional scenarios. **Version A**: Female client (privacy maintained, no identifiable features) experiencing authentic Ayurvedic massage with warm herbal oils and synchronized strokes from professional male therapist. **Version B**: Male government executive receiving Ayurvedic therapy from professional female therapist. **Version C**: Female client experiencing traditional Ayurvedic healing from female massage specialist. **Version D**: Male client receiving authentic Ayurvedic treatment from male therapist. Scene: elegant Delhi home with traditional Indian architectural elements. Client experience: holistic wellness benefits, traditional Indian healing, warm medicinal oil therapy with authentic Ayurvedic techniques applied with cultural respect. Setting: upscale Delhi residence with traditional architecture - high ceilings, archways, marble work - brass and deep red accents, sophisticated furnishings reflecting Delhi's cultural heritage. Delhi integration: traditional Indian wellness heritage, government capital sophistication, cultural authenticity with modern comfort. Atmosphere: spiritual wellness sanctuary, traditional healing experience, cultural heritage immersion. Professional quality emphasizing holistic benefits, traditional authenticity, and Delhi's rich Ayurvedic heritage for discerning residents.
 ```
 
 ### DELHI-MASSAGE-02: Government Quarter Wellness Integration
-**SEO Alt Text**: "Luxury massage service in Delhi homes integrating traditional wellness with government capital lifestyle"
+**SEO Alt Text**: "Luxury massage service in Delhi homes integrating traditional wellness with capital city lifestyle"
 
 ### 📁 File Name (Copy Below)
 ```
-luxury-massage-service-delhi-home-wellness-lifestyle
+luxury-massage-service-delhi-home-traditional-wellness-lifestyle
 ```
 
 ### 🎨 AI Prompt (Copy Below)
 ```
-Female client receiving hot stone massage therapy in Delhi's government quarter residence. Scene: female client (privacy maintained, no identifiable features) experiencing therapeutic hot stone massage with heated basalt stones and warm oils in sophisticated Delhi residence near government quarters. Client experience: deep muscle relaxation, thermal therapy benefits, luxury spa experience at home, professional male therapist placing heated stones with precision. Setting: upscale Delhi home with traditional Indian design elements, modern amenities, professional hot stone equipment, government quarter sophistication. Delhi integration: traditional thermal therapy heritage, government capital luxury standards, cultural wellness authenticity with modern comfort. Atmosphere: luxurious thermal healing, deep relaxation, government quarter refinement. Professional quality emphasizing thermal benefits, muscle relief, and Delhi's synthesis of traditional healing with capital city luxury lifestyle.
+Client receiving hot stone massage therapy in Delhi's government quarter residence with diverse thermal scenarios. **Version A**: Female client (privacy maintained, no identifiable features) experiencing therapeutic hot stone massage with heated basalt stones and warm oils from professional male therapist. **Version B**: Male government professional receiving hot stone therapy from professional female therapist. **Version C**: Female client experiencing thermal therapy from female massage specialist. **Version D**: Male client receiving hot stone treatment from male therapist. Scene: sophisticated Delhi residence near government quarters. Client experience: deep muscle relaxation, thermal therapy benefits, luxury spa experience at home with heated stones placed with precision. Setting: upscale Delhi home with traditional Indian design elements, modern amenities, professional hot stone equipment, government quarter sophistication. Delhi integration: traditional thermal therapy heritage, government capital luxury standards, cultural wellness authenticity with modern comfort. Atmosphere: luxurious thermal healing, deep relaxation, government quarter refinement. Professional quality emphasizing thermal benefits, muscle relief, and Delhi's synthesis of traditional healing with capital city luxury lifestyle.
 ```
 
 ### DELHI-MASSAGE-03: Traditional Heritage Professional Service
